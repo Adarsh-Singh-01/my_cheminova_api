@@ -147,14 +147,20 @@ def generate_path(data: UserInput):
     courses = recommend_courses(prioritized_skills)
 
     return {
-        "suggested_goal": goal,
-        "confidence_score": confidence,
-        "top_career_matches": matches,
-        "skill_match_percentage": coverage_percentage,
-        "matched_skills": matched_skills,
-        "missing_skills": prioritized_skills,
-        "match_analysis": explanation,
-        "learning_path": path,
-        "recommended_courses": courses,
-        "timeline_estimation": timeline
+        "GOAL PREDICTION": {
+            "Suggested Goal": goal,
+            "Confidence": confidence,
+            "Alternatives": matches
+        },
+        "SKILL ANALYSIS": {
+            "Match Percentage": coverage_percentage,
+            "Matched Skills": matched_skills,
+            "Missing Skills": prioritized_skills,
+            "Match Analysis": explanation
+        },
+        "LEARNING PLAN": {
+            "Path": path,
+            "Timeline": timeline,
+            "Recommended Courses": courses
+        }
     }
