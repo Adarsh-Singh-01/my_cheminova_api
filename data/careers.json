@@ -1,0 +1,6411 @@
+{
+  "Frontend Developer": {
+    "skills": [
+      "CSS",
+      "Node.js",
+      "Database Management",
+      "API Development",
+      "HTML",
+      "React"
+    ]
+  },
+  "Senior Frontend Developer": {
+    "skills": [
+      "HTML",
+      "Database Management",
+      "CSS",
+      "Node.js",
+      "API Development",
+      "React"
+    ]
+  },
+  "Junior Frontend Developer": {
+    "skills": [
+      "Database Management",
+      "React",
+      "API Development",
+      "HTML",
+      "Node.js",
+      "JavaScript"
+    ]
+  },
+  "Lead Frontend Developer": {
+    "skills": [
+      "Node.js",
+      "API Development",
+      "CSS",
+      "Database Management",
+      "JavaScript",
+      "React"
+    ]
+  },
+  "Associate Frontend Developer": {
+    "skills": [
+      "HTML",
+      "React",
+      "Node.js",
+      "API Development",
+      "Database Management",
+      "JavaScript"
+    ]
+  },
+  "Principal Frontend Developer": {
+    "skills": [
+      "CSS",
+      "Database Management",
+      "Node.js",
+      "API Development",
+      "React",
+      "JavaScript"
+    ]
+  },
+  "Certified Frontend Developer": {
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "Database Management",
+      "HTML",
+      "Node.js",
+      "React"
+    ]
+  },
+  "Professional Frontend Developer": {
+    "skills": [
+      "React",
+      "Database Management",
+      "Node.js",
+      "CSS",
+      "HTML",
+      "API Development"
+    ]
+  },
+  "Advanced Frontend Developer": {
+    "skills": [
+      "Node.js",
+      "CSS",
+      "JavaScript",
+      "Database Management",
+      "React",
+      "API Development"
+    ]
+  },
+  "Entry Level Frontend Developer": {
+    "skills": [
+      "Database Management",
+      "CSS",
+      "HTML",
+      "Node.js",
+      "API Development",
+      "JavaScript"
+    ]
+  },
+  "Specialist Frontend Developer": {
+    "skills": [
+      "React",
+      "API Development",
+      "Database Management",
+      "Node.js",
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  "Frontend Developer - Healthcare": {
+    "skills": [
+      "API Development",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Database Management",
+      "Node.js"
+    ]
+  },
+  "Frontend Developer - Finance": {
+    "skills": [
+      "CSS",
+      "API Development",
+      "Node.js",
+      "React",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "Frontend Developer - Education": {
+    "skills": [
+      "JavaScript",
+      "Database Management",
+      "API Development",
+      "React",
+      "CSS",
+      "Node.js"
+    ]
+  },
+  "Frontend Developer - Retail": {
+    "skills": [
+      "HTML",
+      "Database Management",
+      "JavaScript",
+      "API Development",
+      "React",
+      "CSS"
+    ]
+  },
+  "Frontend Developer - Energy": {
+    "skills": [
+      "Database Management",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "API Development"
+    ]
+  },
+  "Frontend Developer - Technology": {
+    "skills": [
+      "Database Management",
+      "API Development",
+      "Node.js",
+      "React",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "Backend Developer": {
+    "skills": [
+      "Node.js",
+      "CSS",
+      "React",
+      "JavaScript",
+      "HTML",
+      "API Development"
+    ]
+  },
+  "Senior Backend Developer": {
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "Database Management",
+      "API Development",
+      "Node.js"
+    ]
+  },
+  "Junior Backend Developer": {
+    "skills": [
+      "HTML",
+      "Node.js",
+      "CSS",
+      "API Development",
+      "React",
+      "JavaScript"
+    ]
+  },
+  "Lead Backend Developer": {
+    "skills": [
+      "CSS",
+      "React",
+      "API Development",
+      "JavaScript",
+      "Node.js",
+      "Database Management"
+    ]
+  },
+  "Associate Backend Developer": {
+    "skills": [
+      "API Development",
+      "JavaScript",
+      "HTML",
+      "React",
+      "CSS",
+      "Node.js"
+    ]
+  },
+  "Principal Backend Developer": {
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Database Management",
+      "API Development",
+      "HTML",
+      "React"
+    ]
+  },
+  "Certified Backend Developer": {
+    "skills": [
+      "HTML",
+      "Database Management",
+      "React",
+      "CSS",
+      "Node.js",
+      "API Development"
+    ]
+  },
+  "Professional Backend Developer": {
+    "skills": [
+      "React",
+      "CSS",
+      "API Development",
+      "Node.js",
+      "HTML",
+      "Database Management"
+    ]
+  },
+  "Advanced Backend Developer": {
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Database Management",
+      "CSS",
+      "API Development"
+    ]
+  },
+  "Entry Level Backend Developer": {
+    "skills": [
+      "HTML",
+      "CSS",
+      "React",
+      "Database Management",
+      "API Development",
+      "Node.js"
+    ]
+  },
+  "Specialist Backend Developer": {
+    "skills": [
+      "Database Management",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "API Development"
+    ]
+  },
+  "Backend Developer - Healthcare": {
+    "skills": [
+      "CSS",
+      "API Development",
+      "Database Management",
+      "HTML",
+      "Node.js",
+      "JavaScript"
+    ]
+  },
+  "Backend Developer - Finance": {
+    "skills": [
+      "JavaScript",
+      "Database Management",
+      "CSS",
+      "Node.js",
+      "API Development",
+      "React"
+    ]
+  },
+  "Backend Developer - Education": {
+    "skills": [
+      "CSS",
+      "Database Management",
+      "API Development",
+      "React",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "Backend Developer - Retail": {
+    "skills": [
+      "Node.js",
+      "HTML",
+      "CSS",
+      "React",
+      "Database Management",
+      "API Development"
+    ]
+  },
+  "Backend Developer - Energy": {
+    "skills": [
+      "JavaScript",
+      "API Development",
+      "React",
+      "Database Management",
+      "Node.js",
+      "CSS"
+    ]
+  },
+  "Backend Developer - Technology": {
+    "skills": [
+      "CSS",
+      "API Development",
+      "React",
+      "JavaScript",
+      "Database Management",
+      "Node.js"
+    ]
+  },
+  "Full Stack Developer": {
+    "skills": [
+      "React",
+      "Database Management",
+      "API Development",
+      "CSS",
+      "Node.js",
+      "HTML"
+    ]
+  },
+  "Senior Full Stack Developer": {
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "Database Management",
+      "React",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Junior Full Stack Developer": {
+    "skills": [
+      "API Development",
+      "React",
+      "Database Management",
+      "HTML",
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "Lead Full Stack Developer": {
+    "skills": [
+      "Database Management",
+      "CSS",
+      "JavaScript",
+      "API Development",
+      "Node.js",
+      "React"
+    ]
+  },
+  "Associate Full Stack Developer": {
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "API Development",
+      "Node.js",
+      "CSS"
+    ]
+  },
+  "Principal Full Stack Developer": {
+    "skills": [
+      "Database Management",
+      "React",
+      "JavaScript",
+      "API Development",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Certified Full Stack Developer": {
+    "skills": [
+      "HTML",
+      "CSS",
+      "API Development",
+      "Node.js",
+      "Database Management",
+      "React"
+    ]
+  },
+  "Professional Full Stack Developer": {
+    "skills": [
+      "HTML",
+      "API Development",
+      "Database Management",
+      "CSS",
+      "Node.js",
+      "React"
+    ]
+  },
+  "Advanced Full Stack Developer": {
+    "skills": [
+      "React",
+      "CSS",
+      "JavaScript",
+      "API Development",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Entry Level Full Stack Developer": {
+    "skills": [
+      "HTML",
+      "Database Management",
+      "React",
+      "JavaScript",
+      "API Development",
+      "Node.js"
+    ]
+  },
+  "Specialist Full Stack Developer": {
+    "skills": [
+      "API Development",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Node.js",
+      "Database Management"
+    ]
+  },
+  "Full Stack Developer - Healthcare": {
+    "skills": [
+      "React",
+      "HTML",
+      "Database Management",
+      "CSS",
+      "JavaScript",
+      "API Development"
+    ]
+  },
+  "Full Stack Developer - Finance": {
+    "skills": [
+      "React",
+      "Database Management",
+      "API Development",
+      "Node.js",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "Full Stack Developer - Education": {
+    "skills": [
+      "CSS",
+      "API Development",
+      "React",
+      "JavaScript",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Full Stack Developer - Retail": {
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "API Development",
+      "Database Management"
+    ]
+  },
+  "Full Stack Developer - Energy": {
+    "skills": [
+      "API Development",
+      "CSS",
+      "React",
+      "Database Management",
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "Full Stack Developer - Technology": {
+    "skills": [
+      "Node.js",
+      "Database Management",
+      "CSS",
+      "JavaScript",
+      "HTML",
+      "API Development"
+    ]
+  },
+  "Web Developer": {
+    "skills": [
+      "API Development",
+      "Node.js",
+      "JavaScript",
+      "HTML",
+      "Database Management",
+      "React"
+    ]
+  },
+  "Senior Web Developer": {
+    "skills": [
+      "Node.js",
+      "Database Management",
+      "API Development",
+      "React",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "Junior Web Developer": {
+    "skills": [
+      "React",
+      "API Development",
+      "Database Management",
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  "Lead Web Developer": {
+    "skills": [
+      "React",
+      "CSS",
+      "Node.js",
+      "API Development",
+      "JavaScript",
+      "HTML"
+    ]
+  },
+  "Associate Web Developer": {
+    "skills": [
+      "HTML",
+      "CSS",
+      "Node.js",
+      "JavaScript",
+      "API Development",
+      "React"
+    ]
+  },
+  "Principal Web Developer": {
+    "skills": [
+      "Node.js",
+      "CSS",
+      "JavaScript",
+      "Database Management",
+      "React",
+      "HTML"
+    ]
+  },
+  "Certified Web Developer": {
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "Database Management",
+      "React",
+      "CSS",
+      "API Development"
+    ]
+  },
+  "Professional Web Developer": {
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "CSS",
+      "API Development",
+      "Database Management",
+      "HTML"
+    ]
+  },
+  "Advanced Web Developer": {
+    "skills": [
+      "React",
+      "Database Management",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "API Development"
+    ]
+  },
+  "Entry Level Web Developer": {
+    "skills": [
+      "React",
+      "HTML",
+      "API Development",
+      "CSS",
+      "Database Management",
+      "Node.js"
+    ]
+  },
+  "Specialist Web Developer": {
+    "skills": [
+      "API Development",
+      "HTML",
+      "Database Management",
+      "Node.js",
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  "Web Developer - Healthcare": {
+    "skills": [
+      "API Development",
+      "Database Management",
+      "React",
+      "CSS",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Web Developer - Finance": {
+    "skills": [
+      "CSS",
+      "Database Management",
+      "API Development",
+      "React",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Web Developer - Education": {
+    "skills": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Database Management"
+    ]
+  },
+  "Web Developer - Retail": {
+    "skills": [
+      "Database Management",
+      "JavaScript",
+      "API Development",
+      "React",
+      "HTML",
+      "Node.js"
+    ]
+  },
+  "Web Developer - Energy": {
+    "skills": [
+      "API Development",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "React"
+    ]
+  },
+  "Web Developer - Technology": {
+    "skills": [
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "Database Management",
+      "HTML",
+      "React"
+    ]
+  },
+  "AI Engineer": {
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "Python",
+      "Statistics"
+    ]
+  },
+  "Senior AI Engineer": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning"
+    ]
+  },
+  "Junior AI Engineer": {
+    "skills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Lead AI Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Python",
+      "Statistics",
+      "Machine Learning"
+    ]
+  },
+  "Associate AI Engineer": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Statistics",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "Principal AI Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Statistics",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  "Certified AI Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics",
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  "Professional AI Engineer": {
+    "skills": [
+      "Statistics",
+      "Python",
+      "Data Analysis",
+      "Machine Learning",
+      "Deep Learning"
+    ]
+  },
+  "Advanced AI Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Python",
+      "Machine Learning",
+      "Statistics"
+    ]
+  },
+  "Entry Level AI Engineer": {
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics",
+      "Python"
+    ]
+  },
+  "Specialist AI Engineer": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Statistics",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "AI Engineer - Healthcare": {
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning",
+      "Data Analysis"
+    ]
+  },
+  "AI Engineer - Finance": {
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics",
+      "Python"
+    ]
+  },
+  "AI Engineer - Education": {
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "Python",
+      "Statistics"
+    ]
+  },
+  "AI Engineer - Retail": {
+    "skills": [
+      "Data Analysis",
+      "Statistics",
+      "Deep Learning",
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  "AI Engineer - Energy": {
+    "skills": [
+      "Statistics",
+      "Python",
+      "Deep Learning",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "AI Engineer - Technology": {
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Deep Learning",
+      "Machine Learning",
+      "Statistics"
+    ]
+  },
+  "Senior Machine Learning Engineer": {
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Junior Machine Learning Engineer": {
+    "skills": [
+      "Statistics",
+      "Data Analysis",
+      "Python",
+      "Machine Learning",
+      "Deep Learning"
+    ]
+  },
+  "Lead Machine Learning Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "Statistics"
+    ]
+  },
+  "Associate Machine Learning Engineer": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Machine Learning",
+      "Statistics",
+      "Deep Learning"
+    ]
+  },
+  "Principal Machine Learning Engineer": {
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "Certified Machine Learning Engineer": {
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning"
+    ]
+  },
+  "Professional Machine Learning Engineer": {
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  "Advanced Machine Learning Engineer": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics"
+    ]
+  },
+  "Entry Level Machine Learning Engineer": {
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Specialist Machine Learning Engineer": {
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Python",
+      "Deep Learning",
+      "Statistics"
+    ]
+  },
+  "Machine Learning Engineer - Healthcare": {
+    "skills": [
+      "Statistics",
+      "Deep Learning",
+      "Python",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "Machine Learning Engineer - Finance": {
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Data Analysis",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  "Machine Learning Engineer - Education": {
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Deep Learning",
+      "Statistics",
+      "Python"
+    ]
+  },
+  "Machine Learning Engineer - Retail": {
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Python",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Machine Learning Engineer - Energy": {
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python",
+      "Deep Learning",
+      "Statistics"
+    ]
+  },
+  "Machine Learning Engineer - Technology": {
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Statistics",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "Data Scientist": {
+    "skills": [
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning",
+      "Data Analysis",
+      "Python"
+    ]
+  },
+  "Senior Data Scientist": {
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Junior Data Scientist": {
+    "skills": [
+      "Statistics",
+      "Data Analysis",
+      "Python",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "Lead Data Scientist": {
+    "skills": [
+      "Python",
+      "Statistics",
+      "Data Analysis",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "Associate Data Scientist": {
+    "skills": [
+      "Deep Learning",
+      "Data Analysis",
+      "Statistics",
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  "Principal Data Scientist": {
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics"
+    ]
+  },
+  "Certified Data Scientist": {
+    "skills": [
+      "Data Analysis",
+      "Statistics",
+      "Machine Learning",
+      "Python",
+      "Deep Learning"
+    ]
+  },
+  "Professional Data Scientist": {
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics",
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  "Advanced Data Scientist": {
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Data Analysis",
+      "Machine Learning",
+      "Statistics"
+    ]
+  },
+  "Entry Level Data Scientist": {
+    "skills": [
+      "Statistics",
+      "Data Analysis",
+      "Deep Learning",
+      "Machine Learning",
+      "Python"
+    ]
+  },
+  "Specialist Data Scientist": {
+    "skills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Data Scientist - Healthcare": {
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Data Scientist - Finance": {
+    "skills": [
+      "Statistics",
+      "Machine Learning",
+      "Python",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Data Scientist - Education": {
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "Data Scientist - Retail": {
+    "skills": [
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning"
+    ]
+  },
+  "Data Scientist - Energy": {
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning"
+    ]
+  },
+  "Data Scientist - Technology": {
+    "skills": [
+      "Python",
+      "Statistics",
+      "Data Analysis",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  "AI Researcher": {
+    "skills": [
+      "Machine Learning",
+      "Statistics",
+      "Python",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Senior AI Researcher": {
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Statistics",
+      "Python",
+      "Data Analysis"
+    ]
+  },
+  "Junior AI Researcher": {
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning"
+    ]
+  },
+  "Lead AI Researcher": {
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Data Analysis",
+      "Statistics",
+      "Python"
+    ]
+  },
+  "Associate AI Researcher": {
+    "skills": [
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis"
+    ]
+  },
+  "Principal AI Researcher": {
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python",
+      "Deep Learning",
+      "Statistics"
+    ]
+  },
+  "Certified AI Researcher": {
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "Deep Learning",
+      "Statistics",
+      "Machine Learning"
+    ]
+  },
+  "Professional AI Researcher": {
+    "skills": [
+      "Statistics",
+      "Deep Learning",
+      "Python",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "Advanced AI Researcher": {
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "Statistics",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "Entry Level AI Researcher": {
+    "skills": [
+      "Python",
+      "Statistics",
+      "Deep Learning",
+      "Machine Learning",
+      "Data Analysis"
+    ]
+  },
+  "Specialist AI Researcher": {
+    "skills": [
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "Deep Learning"
+    ]
+  },
+  "AI Researcher - Healthcare": {
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Python",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "AI Researcher - Finance": {
+    "skills": [
+      "Deep Learning",
+      "Python",
+      "Statistics",
+      "Data Analysis",
+      "Machine Learning"
+    ]
+  },
+  "AI Researcher - Education": {
+    "skills": [
+      "Deep Learning",
+      "Data Analysis",
+      "Python",
+      "Statistics",
+      "Machine Learning"
+    ]
+  },
+  "AI Researcher - Retail": {
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Python",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "AI Researcher - Energy": {
+    "skills": [
+      "Deep Learning",
+      "Statistics",
+      "Python",
+      "Machine Learning",
+      "Data Analysis"
+    ]
+  },
+  "AI Researcher - Technology": {
+    "skills": [
+      "Deep Learning",
+      "Data Analysis",
+      "Statistics",
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  "Cloud Architect": {
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "Cloud Computing",
+      "DevOps"
+    ]
+  },
+  "Senior Cloud Architect": {
+    "skills": [
+      "Infrastructure",
+      "Cloud Computing",
+      "Networking",
+      "DevOps"
+    ]
+  },
+  "Junior Cloud Architect": {
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "DevOps",
+      "Cloud Computing"
+    ]
+  },
+  "Lead Cloud Architect": {
+    "skills": [
+      "Cloud Computing",
+      "Infrastructure",
+      "Networking",
+      "DevOps"
+    ]
+  },
+  "Associate Cloud Architect": {
+    "skills": [
+      "Networking",
+      "Infrastructure",
+      "Cloud Computing",
+      "DevOps"
+    ]
+  },
+  "Principal Cloud Architect": {
+    "skills": [
+      "Networking",
+      "Infrastructure",
+      "DevOps",
+      "Cloud Computing"
+    ]
+  },
+  "Certified Cloud Architect": {
+    "skills": [
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure",
+      "Networking"
+    ]
+  },
+  "Professional Cloud Architect": {
+    "skills": [
+      "DevOps",
+      "Networking",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  "Advanced Cloud Architect": {
+    "skills": [
+      "DevOps",
+      "Networking",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  "Entry Level Cloud Architect": {
+    "skills": [
+      "Networking",
+      "Cloud Computing",
+      "Infrastructure",
+      "DevOps"
+    ]
+  },
+  "Specialist Cloud Architect": {
+    "skills": [
+      "Infrastructure",
+      "DevOps",
+      "Cloud Computing",
+      "Networking"
+    ]
+  },
+  "Cloud Architect - Healthcare": {
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "Cloud Computing",
+      "DevOps"
+    ]
+  },
+  "Cloud Architect - Finance": {
+    "skills": [
+      "Cloud Computing",
+      "Infrastructure",
+      "DevOps",
+      "Networking"
+    ]
+  },
+  "Cloud Architect - Education": {
+    "skills": [
+      "Networking",
+      "Infrastructure",
+      "Cloud Computing",
+      "DevOps"
+    ]
+  },
+  "Cloud Architect - Retail": {
+    "skills": [
+      "Cloud Computing",
+      "DevOps",
+      "Infrastructure",
+      "Networking"
+    ]
+  },
+  "Cloud Architect - Energy": {
+    "skills": [
+      "DevOps",
+      "Networking",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  "Cloud Architect - Technology": {
+    "skills": [
+      "Infrastructure",
+      "DevOps",
+      "Networking",
+      "Cloud Computing"
+    ]
+  },
+  "DevOps Engineer": {
+    "skills": [
+      "Networking",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  "Senior DevOps Engineer": {
+    "skills": [
+      "Infrastructure",
+      "Cloud Computing",
+      "Networking",
+      "DevOps"
+    ]
+  },
+  "Junior DevOps Engineer": {
+    "skills": [
+      "Networking",
+      "Cloud Computing",
+      "DevOps",
+      "Infrastructure"
+    ]
+  },
+  "Lead DevOps Engineer": {
+    "skills": [
+      "Networking",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  "Associate DevOps Engineer": {
+    "skills": [
+      "Networking",
+      "Infrastructure",
+      "DevOps",
+      "Cloud Computing"
+    ]
+  },
+  "Principal DevOps Engineer": {
+    "skills": [
+      "Infrastructure",
+      "DevOps",
+      "Networking",
+      "Cloud Computing"
+    ]
+  },
+  "Certified DevOps Engineer": {
+    "skills": [
+      "DevOps",
+      "Cloud Computing",
+      "Networking",
+      "Infrastructure"
+    ]
+  },
+  "Professional DevOps Engineer": {
+    "skills": [
+      "DevOps",
+      "Infrastructure",
+      "Networking",
+      "Cloud Computing"
+    ]
+  },
+  "Advanced DevOps Engineer": {
+    "skills": [
+      "DevOps",
+      "Networking",
+      "Infrastructure",
+      "Cloud Computing"
+    ]
+  },
+  "Entry Level DevOps Engineer": {
+    "skills": [
+      "Networking",
+      "DevOps",
+      "Infrastructure",
+      "Cloud Computing"
+    ]
+  },
+  "Specialist DevOps Engineer": {
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "DevOps",
+      "Cloud Computing"
+    ]
+  },
+  "DevOps Engineer - Healthcare": {
+    "skills": [
+      "Infrastructure",
+      "Cloud Computing",
+      "DevOps",
+      "Networking"
+    ]
+  },
+  "DevOps Engineer - Finance": {
+    "skills": [
+      "Infrastructure",
+      "Networking",
+      "Cloud Computing",
+      "DevOps"
+    ]
+  },
+  "DevOps Engineer - Education": {
+    "skills": [
+      "Cloud Computing",
+      "DevOps",
+      "Infrastructure",
+      "Networking"
+    ]
+  },
+  "DevOps Engineer - Retail": {
+    "skills": [
+      "DevOps",
+      "Cloud Computing",
+      "Networking",
+      "Infrastructure"
+    ]
+  },
+  "DevOps Engineer - Energy": {
+    "skills": [
+      "Cloud Computing",
+      "DevOps",
+      "Infrastructure",
+      "Networking"
+    ]
+  },
+  "DevOps Engineer - Technology": {
+    "skills": [
+      "DevOps",
+      "Infrastructure",
+      "Cloud Computing",
+      "Networking"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Senior Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Networking",
+      "Cybersecurity"
+    ]
+  },
+  "Junior Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Lead Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Associate Cybersecurity Analyst": {
+    "skills": [
+      "Networking",
+      "Security Protocols",
+      "Cybersecurity"
+    ]
+  },
+  "Principal Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Certified Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Networking",
+      "Cybersecurity"
+    ]
+  },
+  "Professional Cybersecurity Analyst": {
+    "skills": [
+      "Networking",
+      "Cybersecurity",
+      "Security Protocols"
+    ]
+  },
+  "Advanced Cybersecurity Analyst": {
+    "skills": [
+      "Security Protocols",
+      "Networking",
+      "Cybersecurity"
+    ]
+  },
+  "Entry Level Cybersecurity Analyst": {
+    "skills": [
+      "Cybersecurity",
+      "Security Protocols",
+      "Networking"
+    ]
+  },
+  "Specialist Cybersecurity Analyst": {
+    "skills": [
+      "Cybersecurity",
+      "Networking",
+      "Security Protocols"
+    ]
+  },
+  "Cybersecurity Analyst - Healthcare": {
+    "skills": [
+      "Security Protocols",
+      "Networking",
+      "Cybersecurity"
+    ]
+  },
+  "Cybersecurity Analyst - Finance": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Cybersecurity Analyst - Education": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Cybersecurity Analyst - Retail": {
+    "skills": [
+      "Networking",
+      "Cybersecurity",
+      "Security Protocols"
+    ]
+  },
+  "Cybersecurity Analyst - Energy": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Cybersecurity Analyst - Technology": {
+    "skills": [
+      "Security Protocols",
+      "Cybersecurity",
+      "Networking"
+    ]
+  },
+  "Software Engineer": {
+    "skills": [
+      "Data Structures",
+      "System Design",
+      "Programming",
+      "Algorithms"
+    ]
+  },
+  "Senior Software Engineer": {
+    "skills": [
+      "Algorithms",
+      "Programming",
+      "System Design",
+      "Data Structures"
+    ]
+  },
+  "Junior Software Engineer": {
+    "skills": [
+      "System Design",
+      "Algorithms",
+      "Data Structures",
+      "Programming"
+    ]
+  },
+  "Lead Software Engineer": {
+    "skills": [
+      "Algorithms",
+      "Programming",
+      "System Design",
+      "Data Structures"
+    ]
+  },
+  "Associate Software Engineer": {
+    "skills": [
+      "System Design",
+      "Algorithms",
+      "Data Structures",
+      "Programming"
+    ]
+  },
+  "Principal Software Engineer": {
+    "skills": [
+      "Data Structures",
+      "System Design",
+      "Programming",
+      "Algorithms"
+    ]
+  },
+  "Certified Software Engineer": {
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "System Design",
+      "Programming"
+    ]
+  },
+  "Professional Software Engineer": {
+    "skills": [
+      "Data Structures",
+      "Programming",
+      "Algorithms",
+      "System Design"
+    ]
+  },
+  "Advanced Software Engineer": {
+    "skills": [
+      "System Design",
+      "Programming",
+      "Algorithms",
+      "Data Structures"
+    ]
+  },
+  "Entry Level Software Engineer": {
+    "skills": [
+      "Algorithms",
+      "Data Structures",
+      "Programming",
+      "System Design"
+    ]
+  },
+  "Specialist Software Engineer": {
+    "skills": [
+      "Programming",
+      "Algorithms",
+      "Data Structures",
+      "System Design"
+    ]
+  },
+  "Software Engineer - Healthcare": {
+    "skills": [
+      "System Design",
+      "Programming",
+      "Data Structures",
+      "Algorithms"
+    ]
+  },
+  "Software Engineer - Finance": {
+    "skills": [
+      "Algorithms",
+      "Programming",
+      "Data Structures",
+      "System Design"
+    ]
+  },
+  "Software Engineer - Education": {
+    "skills": [
+      "Programming",
+      "Algorithms",
+      "System Design",
+      "Data Structures"
+    ]
+  },
+  "Software Engineer - Retail": {
+    "skills": [
+      "System Design",
+      "Data Structures",
+      "Programming",
+      "Algorithms"
+    ]
+  },
+  "Software Engineer - Energy": {
+    "skills": [
+      "Data Structures",
+      "System Design",
+      "Algorithms",
+      "Programming"
+    ]
+  },
+  "Software Engineer - Technology": {
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "System Design",
+      "Programming"
+    ]
+  },
+  "Doctor": {
+    "skills": [
+      "Epidemiology",
+      "Clinical Analysis",
+      "Public Health",
+      "Pharmacology",
+      "Biology",
+      "Anatomy"
+    ]
+  },
+  "Senior Doctor": {
+    "skills": [
+      "Anatomy",
+      "Medical Research",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Pharmacology"
+    ]
+  },
+  "Junior Doctor": {
+    "skills": [
+      "Biology",
+      "Public Health",
+      "Patient Care",
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Clinical Analysis"
+    ]
+  },
+  "Lead Doctor": {
+    "skills": [
+      "Medical Research",
+      "Epidemiology",
+      "Patient Care",
+      "Clinical Analysis",
+      "Biology",
+      "Healthcare Knowledge"
+    ]
+  },
+  "Associate Doctor": {
+    "skills": [
+      "Anatomy",
+      "Biology",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Clinical Analysis",
+      "Public Health"
+    ]
+  },
+  "Principal Doctor": {
+    "skills": [
+      "Pharmacology",
+      "Epidemiology",
+      "Public Health",
+      "Clinical Analysis",
+      "Medical Research",
+      "Biology"
+    ]
+  },
+  "Certified Doctor": {
+    "skills": [
+      "Public Health",
+      "Epidemiology",
+      "Pharmacology",
+      "Biology",
+      "Anatomy",
+      "Patient Care"
+    ]
+  },
+  "Professional Doctor": {
+    "skills": [
+      "Public Health",
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Pharmacology",
+      "Epidemiology"
+    ]
+  },
+  "Advanced Doctor": {
+    "skills": [
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Patient Care",
+      "Clinical Analysis",
+      "Epidemiology"
+    ]
+  },
+  "Entry Level Doctor": {
+    "skills": [
+      "Medical Research",
+      "Patient Care",
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Anatomy",
+      "Clinical Analysis"
+    ]
+  },
+  "Specialist Doctor": {
+    "skills": [
+      "Epidemiology",
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Anatomy",
+      "Public Health",
+      "Patient Care"
+    ]
+  },
+  "Doctor - Healthcare": {
+    "skills": [
+      "Anatomy",
+      "Biology",
+      "Healthcare Knowledge",
+      "Public Health",
+      "Pharmacology",
+      "Patient Care"
+    ]
+  },
+  "Doctor - Finance": {
+    "skills": [
+      "Biology",
+      "Epidemiology",
+      "Medical Research",
+      "Anatomy",
+      "Public Health",
+      "Pharmacology"
+    ]
+  },
+  "Doctor - Education": {
+    "skills": [
+      "Pharmacology",
+      "Anatomy",
+      "Public Health",
+      "Medical Research",
+      "Epidemiology",
+      "Biology"
+    ]
+  },
+  "Doctor - Retail": {
+    "skills": [
+      "Pharmacology",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Clinical Analysis",
+      "Patient Care"
+    ]
+  },
+  "Doctor - Energy": {
+    "skills": [
+      "Clinical Analysis",
+      "Epidemiology",
+      "Patient Care",
+      "Anatomy",
+      "Pharmacology",
+      "Biology"
+    ]
+  },
+  "Doctor - Technology": {
+    "skills": [
+      "Medical Research",
+      "Patient Care",
+      "Pharmacology",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Biology"
+    ]
+  },
+  "Nurse": {
+    "skills": [
+      "Anatomy",
+      "Pharmacology",
+      "Patient Care",
+      "Public Health",
+      "Biology",
+      "Clinical Analysis"
+    ]
+  },
+  "Senior Nurse": {
+    "skills": [
+      "Clinical Analysis",
+      "Public Health",
+      "Patient Care",
+      "Pharmacology",
+      "Anatomy",
+      "Medical Research"
+    ]
+  },
+  "Junior Nurse": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Anatomy",
+      "Epidemiology",
+      "Patient Care",
+      "Public Health"
+    ]
+  },
+  "Lead Nurse": {
+    "skills": [
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Pharmacology",
+      "Anatomy",
+      "Epidemiology"
+    ]
+  },
+  "Associate Nurse": {
+    "skills": [
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Clinical Analysis",
+      "Epidemiology",
+      "Biology"
+    ]
+  },
+  "Principal Nurse": {
+    "skills": [
+      "Pharmacology",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Epidemiology",
+      "Clinical Analysis"
+    ]
+  },
+  "Certified Nurse": {
+    "skills": [
+      "Biology",
+      "Clinical Analysis",
+      "Epidemiology",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Medical Research"
+    ]
+  },
+  "Professional Nurse": {
+    "skills": [
+      "Public Health",
+      "Patient Care",
+      "Medical Research",
+      "Anatomy",
+      "Clinical Analysis",
+      "Pharmacology"
+    ]
+  },
+  "Advanced Nurse": {
+    "skills": [
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Anatomy",
+      "Epidemiology",
+      "Clinical Analysis",
+      "Medical Research"
+    ]
+  },
+  "Entry Level Nurse": {
+    "skills": [
+      "Pharmacology",
+      "Public Health",
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Biology"
+    ]
+  },
+  "Specialist Nurse": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Epidemiology",
+      "Biology",
+      "Patient Care",
+      "Medical Research",
+      "Anatomy"
+    ]
+  },
+  "Nurse - Healthcare": {
+    "skills": [
+      "Medical Research",
+      "Anatomy",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Biology",
+      "Pharmacology"
+    ]
+  },
+  "Nurse - Finance": {
+    "skills": [
+      "Pharmacology",
+      "Anatomy",
+      "Medical Research",
+      "Patient Care",
+      "Public Health",
+      "Biology"
+    ]
+  },
+  "Nurse - Education": {
+    "skills": [
+      "Pharmacology",
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Epidemiology",
+      "Anatomy",
+      "Patient Care"
+    ]
+  },
+  "Nurse - Retail": {
+    "skills": [
+      "Public Health",
+      "Patient Care",
+      "Biology",
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Epidemiology"
+    ]
+  },
+  "Nurse - Energy": {
+    "skills": [
+      "Clinical Analysis",
+      "Medical Research",
+      "Biology",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Epidemiology"
+    ]
+  },
+  "Nurse - Technology": {
+    "skills": [
+      "Patient Care",
+      "Clinical Analysis",
+      "Epidemiology",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Medical Research"
+    ]
+  },
+  "Medical Researcher": {
+    "skills": [
+      "Anatomy",
+      "Biology",
+      "Medical Research",
+      "Public Health",
+      "Clinical Analysis",
+      "Patient Care"
+    ]
+  },
+  "Senior Medical Researcher": {
+    "skills": [
+      "Clinical Analysis",
+      "Medical Research",
+      "Epidemiology",
+      "Patient Care",
+      "Pharmacology",
+      "Anatomy"
+    ]
+  },
+  "Junior Medical Researcher": {
+    "skills": [
+      "Biology",
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Medical Research",
+      "Anatomy",
+      "Patient Care"
+    ]
+  },
+  "Lead Medical Researcher": {
+    "skills": [
+      "Medical Research",
+      "Pharmacology",
+      "Patient Care",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Anatomy"
+    ]
+  },
+  "Associate Medical Researcher": {
+    "skills": [
+      "Anatomy",
+      "Pharmacology",
+      "Clinical Analysis",
+      "Biology",
+      "Epidemiology",
+      "Healthcare Knowledge"
+    ]
+  },
+  "Principal Medical Researcher": {
+    "skills": [
+      "Anatomy",
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Public Health",
+      "Patient Care"
+    ]
+  },
+  "Certified Medical Researcher": {
+    "skills": [
+      "Pharmacology",
+      "Patient Care",
+      "Public Health",
+      "Medical Research",
+      "Biology",
+      "Epidemiology"
+    ]
+  },
+  "Professional Medical Researcher": {
+    "skills": [
+      "Epidemiology",
+      "Healthcare Knowledge",
+      "Public Health",
+      "Clinical Analysis",
+      "Biology",
+      "Medical Research"
+    ]
+  },
+  "Advanced Medical Researcher": {
+    "skills": [
+      "Biology",
+      "Anatomy",
+      "Clinical Analysis",
+      "Medical Research",
+      "Epidemiology",
+      "Pharmacology"
+    ]
+  },
+  "Entry Level Medical Researcher": {
+    "skills": [
+      "Patient Care",
+      "Anatomy",
+      "Biology",
+      "Medical Research",
+      "Clinical Analysis",
+      "Healthcare Knowledge"
+    ]
+  },
+  "Specialist Medical Researcher": {
+    "skills": [
+      "Clinical Analysis",
+      "Public Health",
+      "Biology",
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Pharmacology"
+    ]
+  },
+  "Medical Researcher - Healthcare": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Public Health",
+      "Biology",
+      "Patient Care",
+      "Clinical Analysis"
+    ]
+  },
+  "Medical Researcher - Finance": {
+    "skills": [
+      "Public Health",
+      "Clinical Analysis",
+      "Biology",
+      "Medical Research",
+      "Pharmacology",
+      "Epidemiology"
+    ]
+  },
+  "Medical Researcher - Education": {
+    "skills": [
+      "Epidemiology",
+      "Pharmacology",
+      "Medical Research",
+      "Biology",
+      "Healthcare Knowledge",
+      "Public Health"
+    ]
+  },
+  "Medical Researcher - Retail": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Biology",
+      "Medical Research",
+      "Patient Care",
+      "Clinical Analysis",
+      "Anatomy"
+    ]
+  },
+  "Medical Researcher - Energy": {
+    "skills": [
+      "Patient Care",
+      "Clinical Analysis",
+      "Pharmacology",
+      "Anatomy",
+      "Medical Research",
+      "Biology"
+    ]
+  },
+  "Medical Researcher - Technology": {
+    "skills": [
+      "Medical Research",
+      "Pharmacology",
+      "Patient Care",
+      "Clinical Analysis",
+      "Healthcare Knowledge",
+      "Public Health"
+    ]
+  },
+  "Pharmacist": {
+    "skills": [
+      "Anatomy",
+      "Clinical Analysis",
+      "Biology",
+      "Medical Research",
+      "Public Health",
+      "Healthcare Knowledge"
+    ]
+  },
+  "Senior Pharmacist": {
+    "skills": [
+      "Pharmacology",
+      "Patient Care",
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Public Health",
+      "Epidemiology"
+    ]
+  },
+  "Junior Pharmacist": {
+    "skills": [
+      "Public Health",
+      "Epidemiology",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Patient Care",
+      "Clinical Analysis"
+    ]
+  },
+  "Lead Pharmacist": {
+    "skills": [
+      "Epidemiology",
+      "Pharmacology",
+      "Clinical Analysis",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Medical Research"
+    ]
+  },
+  "Associate Pharmacist": {
+    "skills": [
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Clinical Analysis",
+      "Patient Care",
+      "Epidemiology"
+    ]
+  },
+  "Principal Pharmacist": {
+    "skills": [
+      "Pharmacology",
+      "Anatomy",
+      "Patient Care",
+      "Medical Research",
+      "Biology",
+      "Clinical Analysis"
+    ]
+  },
+  "Certified Pharmacist": {
+    "skills": [
+      "Medical Research",
+      "Clinical Analysis",
+      "Biology",
+      "Public Health",
+      "Epidemiology",
+      "Patient Care"
+    ]
+  },
+  "Professional Pharmacist": {
+    "skills": [
+      "Pharmacology",
+      "Patient Care",
+      "Clinical Analysis",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Anatomy"
+    ]
+  },
+  "Advanced Pharmacist": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Biology",
+      "Pharmacology",
+      "Anatomy",
+      "Public Health",
+      "Medical Research"
+    ]
+  },
+  "Entry Level Pharmacist": {
+    "skills": [
+      "Medical Research",
+      "Patient Care",
+      "Public Health",
+      "Epidemiology",
+      "Clinical Analysis",
+      "Pharmacology"
+    ]
+  },
+  "Specialist Pharmacist": {
+    "skills": [
+      "Clinical Analysis",
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Epidemiology",
+      "Biology",
+      "Pharmacology"
+    ]
+  },
+  "Pharmacist - Healthcare": {
+    "skills": [
+      "Biology",
+      "Public Health",
+      "Pharmacology",
+      "Epidemiology",
+      "Patient Care",
+      "Medical Research"
+    ]
+  },
+  "Pharmacist - Finance": {
+    "skills": [
+      "Clinical Analysis",
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Anatomy",
+      "Medical Research",
+      "Public Health"
+    ]
+  },
+  "Pharmacist - Education": {
+    "skills": [
+      "Anatomy",
+      "Public Health",
+      "Patient Care",
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Medical Research"
+    ]
+  },
+  "Pharmacist - Retail": {
+    "skills": [
+      "Epidemiology",
+      "Clinical Analysis",
+      "Pharmacology",
+      "Biology",
+      "Anatomy",
+      "Public Health"
+    ]
+  },
+  "Pharmacist - Energy": {
+    "skills": [
+      "Epidemiology",
+      "Biology",
+      "Public Health",
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Clinical Analysis"
+    ]
+  },
+  "Pharmacist - Technology": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Public Health",
+      "Anatomy",
+      "Medical Research",
+      "Clinical Analysis",
+      "Pharmacology"
+    ]
+  },
+  "Surgeon": {
+    "skills": [
+      "Pharmacology",
+      "Anatomy",
+      "Epidemiology",
+      "Healthcare Knowledge",
+      "Public Health",
+      "Clinical Analysis"
+    ]
+  },
+  "Senior Surgeon": {
+    "skills": [
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Epidemiology",
+      "Clinical Analysis",
+      "Patient Care",
+      "Biology"
+    ]
+  },
+  "Junior Surgeon": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Biology",
+      "Clinical Analysis",
+      "Pharmacology",
+      "Medical Research",
+      "Patient Care"
+    ]
+  },
+  "Lead Surgeon": {
+    "skills": [
+      "Public Health",
+      "Patient Care",
+      "Clinical Analysis",
+      "Medical Research",
+      "Epidemiology",
+      "Healthcare Knowledge"
+    ]
+  },
+  "Associate Surgeon": {
+    "skills": [
+      "Anatomy",
+      "Medical Research",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Biology",
+      "Pharmacology"
+    ]
+  },
+  "Principal Surgeon": {
+    "skills": [
+      "Anatomy",
+      "Medical Research",
+      "Public Health",
+      "Pharmacology",
+      "Biology",
+      "Epidemiology"
+    ]
+  },
+  "Certified Surgeon": {
+    "skills": [
+      "Anatomy",
+      "Patient Care",
+      "Public Health",
+      "Pharmacology",
+      "Epidemiology",
+      "Medical Research"
+    ]
+  },
+  "Professional Surgeon": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Medical Research",
+      "Pharmacology",
+      "Epidemiology",
+      "Public Health",
+      "Biology"
+    ]
+  },
+  "Advanced Surgeon": {
+    "skills": [
+      "Patient Care",
+      "Pharmacology",
+      "Biology",
+      "Anatomy",
+      "Healthcare Knowledge",
+      "Public Health"
+    ]
+  },
+  "Entry Level Surgeon": {
+    "skills": [
+      "Pharmacology",
+      "Medical Research",
+      "Epidemiology",
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Patient Care"
+    ]
+  },
+  "Specialist Surgeon": {
+    "skills": [
+      "Anatomy",
+      "Clinical Analysis",
+      "Pharmacology",
+      "Patient Care",
+      "Medical Research",
+      "Public Health"
+    ]
+  },
+  "Surgeon - Healthcare": {
+    "skills": [
+      "Biology",
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Patient Care",
+      "Epidemiology",
+      "Clinical Analysis"
+    ]
+  },
+  "Surgeon - Finance": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Pharmacology",
+      "Epidemiology",
+      "Public Health",
+      "Clinical Analysis",
+      "Biology"
+    ]
+  },
+  "Surgeon - Education": {
+    "skills": [
+      "Medical Research",
+      "Anatomy",
+      "Public Health",
+      "Epidemiology",
+      "Patient Care",
+      "Pharmacology"
+    ]
+  },
+  "Surgeon - Retail": {
+    "skills": [
+      "Pharmacology",
+      "Healthcare Knowledge",
+      "Biology",
+      "Anatomy",
+      "Medical Research",
+      "Patient Care"
+    ]
+  },
+  "Surgeon - Energy": {
+    "skills": [
+      "Pharmacology",
+      "Patient Care",
+      "Public Health",
+      "Biology",
+      "Medical Research",
+      "Clinical Analysis"
+    ]
+  },
+  "Surgeon - Technology": {
+    "skills": [
+      "Healthcare Knowledge",
+      "Clinical Analysis",
+      "Anatomy",
+      "Patient Care",
+      "Pharmacology",
+      "Biology"
+    ]
+  },
+  "Financial Analyst": {
+    "skills": [
+      "Risk Analysis",
+      "Economics",
+      "Investment Strategy",
+      "Financial Modeling",
+      "Accounting",
+      "Statistics"
+    ]
+  },
+  "Senior Financial Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Investment Strategy",
+      "Accounting",
+      "Statistics",
+      "Finance",
+      "Risk Analysis"
+    ]
+  },
+  "Junior Financial Analyst": {
+    "skills": [
+      "Investment Strategy",
+      "Financial Modeling",
+      "Finance",
+      "Statistics",
+      "Accounting",
+      "Portfolio Management"
+    ]
+  },
+  "Lead Financial Analyst": {
+    "skills": [
+      "Risk Analysis",
+      "Finance",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Investment Strategy",
+      "Statistics"
+    ]
+  },
+  "Associate Financial Analyst": {
+    "skills": [
+      "Economics",
+      "Finance",
+      "Statistics",
+      "Investment Strategy",
+      "Risk Analysis",
+      "Accounting"
+    ]
+  },
+  "Principal Financial Analyst": {
+    "skills": [
+      "Statistics",
+      "Portfolio Management",
+      "Financial Modeling",
+      "Accounting",
+      "Finance",
+      "Risk Analysis"
+    ]
+  },
+  "Certified Financial Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Statistics",
+      "Risk Analysis",
+      "Investment Strategy",
+      "Accounting",
+      "Portfolio Management"
+    ]
+  },
+  "Professional Financial Analyst": {
+    "skills": [
+      "Statistics",
+      "Financial Modeling",
+      "Economics",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Finance"
+    ]
+  },
+  "Advanced Financial Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Risk Analysis",
+      "Statistics",
+      "Economics",
+      "Accounting",
+      "Finance"
+    ]
+  },
+  "Entry Level Financial Analyst": {
+    "skills": [
+      "Economics",
+      "Investment Strategy",
+      "Financial Modeling",
+      "Accounting",
+      "Risk Analysis",
+      "Finance"
+    ]
+  },
+  "Specialist Financial Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Investment Strategy",
+      "Economics",
+      "Statistics",
+      "Risk Analysis",
+      "Finance"
+    ]
+  },
+  "Financial Analyst - Healthcare": {
+    "skills": [
+      "Economics",
+      "Portfolio Management",
+      "Accounting",
+      "Investment Strategy",
+      "Finance",
+      "Risk Analysis"
+    ]
+  },
+  "Financial Analyst - Finance": {
+    "skills": [
+      "Statistics",
+      "Risk Analysis",
+      "Finance",
+      "Economics",
+      "Accounting",
+      "Investment Strategy"
+    ]
+  },
+  "Financial Analyst - Education": {
+    "skills": [
+      "Portfolio Management",
+      "Risk Analysis",
+      "Financial Modeling",
+      "Investment Strategy",
+      "Economics",
+      "Finance"
+    ]
+  },
+  "Financial Analyst - Retail": {
+    "skills": [
+      "Accounting",
+      "Economics",
+      "Financial Modeling",
+      "Investment Strategy",
+      "Statistics",
+      "Finance"
+    ]
+  },
+  "Financial Analyst - Energy": {
+    "skills": [
+      "Economics",
+      "Risk Analysis",
+      "Portfolio Management",
+      "Finance",
+      "Statistics",
+      "Financial Modeling"
+    ]
+  },
+  "Financial Analyst - Technology": {
+    "skills": [
+      "Investment Strategy",
+      "Finance",
+      "Economics",
+      "Statistics",
+      "Portfolio Management",
+      "Financial Modeling"
+    ]
+  },
+  "Investment Banker": {
+    "skills": [
+      "Risk Analysis",
+      "Economics",
+      "Investment Strategy",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Statistics"
+    ]
+  },
+  "Senior Investment Banker": {
+    "skills": [
+      "Risk Analysis",
+      "Accounting",
+      "Finance",
+      "Portfolio Management",
+      "Investment Strategy",
+      "Economics"
+    ]
+  },
+  "Junior Investment Banker": {
+    "skills": [
+      "Risk Analysis",
+      "Investment Strategy",
+      "Economics",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Finance"
+    ]
+  },
+  "Lead Investment Banker": {
+    "skills": [
+      "Economics",
+      "Statistics",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Risk Analysis",
+      "Finance"
+    ]
+  },
+  "Associate Investment Banker": {
+    "skills": [
+      "Financial Modeling",
+      "Accounting",
+      "Finance",
+      "Investment Strategy",
+      "Risk Analysis",
+      "Portfolio Management"
+    ]
+  },
+  "Principal Investment Banker": {
+    "skills": [
+      "Risk Analysis",
+      "Portfolio Management",
+      "Economics",
+      "Statistics",
+      "Accounting",
+      "Investment Strategy"
+    ]
+  },
+  "Certified Investment Banker": {
+    "skills": [
+      "Statistics",
+      "Accounting",
+      "Portfolio Management",
+      "Economics",
+      "Financial Modeling",
+      "Risk Analysis"
+    ]
+  },
+  "Professional Investment Banker": {
+    "skills": [
+      "Financial Modeling",
+      "Risk Analysis",
+      "Portfolio Management",
+      "Economics",
+      "Investment Strategy",
+      "Accounting"
+    ]
+  },
+  "Advanced Investment Banker": {
+    "skills": [
+      "Risk Analysis",
+      "Statistics",
+      "Economics",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Accounting"
+    ]
+  },
+  "Entry Level Investment Banker": {
+    "skills": [
+      "Financial Modeling",
+      "Finance",
+      "Risk Analysis",
+      "Portfolio Management",
+      "Accounting",
+      "Economics"
+    ]
+  },
+  "Specialist Investment Banker": {
+    "skills": [
+      "Economics",
+      "Statistics",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Risk Analysis",
+      "Accounting"
+    ]
+  },
+  "Investment Banker - Healthcare": {
+    "skills": [
+      "Finance",
+      "Economics",
+      "Investment Strategy",
+      "Financial Modeling",
+      "Risk Analysis",
+      "Portfolio Management"
+    ]
+  },
+  "Investment Banker - Finance": {
+    "skills": [
+      "Finance",
+      "Statistics",
+      "Portfolio Management",
+      "Economics",
+      "Risk Analysis",
+      "Financial Modeling"
+    ]
+  },
+  "Investment Banker - Education": {
+    "skills": [
+      "Portfolio Management",
+      "Accounting",
+      "Economics",
+      "Finance",
+      "Financial Modeling",
+      "Risk Analysis"
+    ]
+  },
+  "Investment Banker - Retail": {
+    "skills": [
+      "Accounting",
+      "Statistics",
+      "Portfolio Management",
+      "Economics",
+      "Risk Analysis",
+      "Investment Strategy"
+    ]
+  },
+  "Investment Banker - Energy": {
+    "skills": [
+      "Portfolio Management",
+      "Risk Analysis",
+      "Finance",
+      "Accounting",
+      "Statistics",
+      "Economics"
+    ]
+  },
+  "Investment Banker - Technology": {
+    "skills": [
+      "Statistics",
+      "Risk Analysis",
+      "Economics",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Finance"
+    ]
+  },
+  "Accountant": {
+    "skills": [
+      "Finance",
+      "Economics",
+      "Financial Modeling",
+      "Investment Strategy",
+      "Risk Analysis",
+      "Accounting"
+    ]
+  },
+  "Senior Accountant": {
+    "skills": [
+      "Accounting",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Finance",
+      "Economics",
+      "Financial Modeling"
+    ]
+  },
+  "Junior Accountant": {
+    "skills": [
+      "Accounting",
+      "Risk Analysis",
+      "Portfolio Management",
+      "Finance",
+      "Financial Modeling",
+      "Economics"
+    ]
+  },
+  "Lead Accountant": {
+    "skills": [
+      "Statistics",
+      "Investment Strategy",
+      "Risk Analysis",
+      "Financial Modeling",
+      "Finance",
+      "Portfolio Management"
+    ]
+  },
+  "Associate Accountant": {
+    "skills": [
+      "Portfolio Management",
+      "Accounting",
+      "Investment Strategy",
+      "Statistics",
+      "Finance",
+      "Financial Modeling"
+    ]
+  },
+  "Principal Accountant": {
+    "skills": [
+      "Statistics",
+      "Investment Strategy",
+      "Accounting",
+      "Risk Analysis",
+      "Finance",
+      "Economics"
+    ]
+  },
+  "Certified Accountant": {
+    "skills": [
+      "Financial Modeling",
+      "Investment Strategy",
+      "Statistics",
+      "Finance",
+      "Portfolio Management",
+      "Risk Analysis"
+    ]
+  },
+  "Professional Accountant": {
+    "skills": [
+      "Risk Analysis",
+      "Finance",
+      "Financial Modeling",
+      "Economics",
+      "Statistics",
+      "Investment Strategy"
+    ]
+  },
+  "Advanced Accountant": {
+    "skills": [
+      "Financial Modeling",
+      "Risk Analysis",
+      "Economics",
+      "Portfolio Management",
+      "Accounting",
+      "Statistics"
+    ]
+  },
+  "Entry Level Accountant": {
+    "skills": [
+      "Accounting",
+      "Financial Modeling",
+      "Statistics",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Finance"
+    ]
+  },
+  "Specialist Accountant": {
+    "skills": [
+      "Economics",
+      "Financial Modeling",
+      "Statistics",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Accounting"
+    ]
+  },
+  "Accountant - Healthcare": {
+    "skills": [
+      "Accounting",
+      "Finance",
+      "Economics",
+      "Risk Analysis",
+      "Financial Modeling",
+      "Statistics"
+    ]
+  },
+  "Accountant - Finance": {
+    "skills": [
+      "Investment Strategy",
+      "Economics",
+      "Statistics",
+      "Risk Analysis",
+      "Accounting",
+      "Finance"
+    ]
+  },
+  "Accountant - Education": {
+    "skills": [
+      "Risk Analysis",
+      "Accounting",
+      "Portfolio Management",
+      "Finance",
+      "Statistics",
+      "Investment Strategy"
+    ]
+  },
+  "Accountant - Retail": {
+    "skills": [
+      "Risk Analysis",
+      "Investment Strategy",
+      "Economics",
+      "Statistics",
+      "Financial Modeling",
+      "Finance"
+    ]
+  },
+  "Accountant - Energy": {
+    "skills": [
+      "Investment Strategy",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Finance",
+      "Risk Analysis",
+      "Statistics"
+    ]
+  },
+  "Accountant - Technology": {
+    "skills": [
+      "Accounting",
+      "Financial Modeling",
+      "Statistics",
+      "Economics",
+      "Risk Analysis",
+      "Investment Strategy"
+    ]
+  },
+  "Risk Analyst": {
+    "skills": [
+      "Accounting",
+      "Finance",
+      "Portfolio Management",
+      "Statistics",
+      "Financial Modeling",
+      "Investment Strategy"
+    ]
+  },
+  "Senior Risk Analyst": {
+    "skills": [
+      "Investment Strategy",
+      "Statistics",
+      "Financial Modeling",
+      "Finance",
+      "Economics",
+      "Portfolio Management"
+    ]
+  },
+  "Junior Risk Analyst": {
+    "skills": [
+      "Finance",
+      "Economics",
+      "Accounting",
+      "Financial Modeling",
+      "Portfolio Management",
+      "Risk Analysis"
+    ]
+  },
+  "Lead Risk Analyst": {
+    "skills": [
+      "Economics",
+      "Financial Modeling",
+      "Statistics",
+      "Portfolio Management",
+      "Investment Strategy",
+      "Risk Analysis"
+    ]
+  },
+  "Associate Risk Analyst": {
+    "skills": [
+      "Statistics",
+      "Financial Modeling",
+      "Investment Strategy",
+      "Accounting",
+      "Finance",
+      "Economics"
+    ]
+  },
+  "Principal Risk Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Portfolio Management",
+      "Accounting",
+      "Finance",
+      "Economics",
+      "Investment Strategy"
+    ]
+  },
+  "Certified Risk Analyst": {
+    "skills": [
+      "Portfolio Management",
+      "Investment Strategy",
+      "Accounting",
+      "Statistics",
+      "Economics",
+      "Risk Analysis"
+    ]
+  },
+  "Professional Risk Analyst": {
+    "skills": [
+      "Investment Strategy",
+      "Finance",
+      "Economics",
+      "Financial Modeling",
+      "Statistics",
+      "Portfolio Management"
+    ]
+  },
+  "Advanced Risk Analyst": {
+    "skills": [
+      "Financial Modeling",
+      "Accounting",
+      "Investment Strategy",
+      "Portfolio Management",
+      "Statistics",
+      "Finance"
+    ]
+  },
+  "Entry Level Risk Analyst": {
+    "skills": [
+      "Accounting",
+      "Risk Analysis",
+      "Economics",
+      "Financial Modeling",
+      "Finance",
+      "Investment Strategy"
+    ]
+  },
+  "Specialist Risk Analyst": {
+    "skills": [
+      "Portfolio Management",
+      "Economics",
+      "Statistics",
+      "Accounting",
+      "Finance",
+      "Risk Analysis"
+    ]
+  },
+  "Risk Analyst - Healthcare": {
+    "skills": [
+      "Risk Analysis",
+      "Portfolio Management",
+      "Financial Modeling",
+      "Statistics",
+      "Investment Strategy",
+      "Finance"
+    ]
+  },
+  "Risk Analyst - Finance": {
+    "skills": [
+      "Risk Analysis",
+      "Financial Modeling",
+      "Statistics",
+      "Economics",
+      "Investment Strategy",
+      "Accounting"
+    ]
+  },
+  "Risk Analyst - Education": {
+    "skills": [
+      "Investment Strategy",
+      "Risk Analysis",
+      "Financial Modeling",
+      "Economics",
+      "Finance",
+      "Accounting"
+    ]
+  },
+  "Risk Analyst - Retail": {
+    "skills": [
+      "Risk Analysis",
+      "Accounting",
+      "Statistics",
+      "Investment Strategy",
+      "Economics",
+      "Finance"
+    ]
+  },
+  "Risk Analyst - Energy": {
+    "skills": [
+      "Portfolio Management",
+      "Risk Analysis",
+      "Accounting",
+      "Statistics",
+      "Investment Strategy",
+      "Finance"
+    ]
+  },
+  "Risk Analyst - Technology": {
+    "skills": [
+      "Accounting",
+      "Statistics",
+      "Portfolio Management",
+      "Risk Analysis",
+      "Economics",
+      "Investment Strategy"
+    ]
+  },
+  "Lawyer": {
+    "skills": [
+      "Corporate Law",
+      "Legal Research",
+      "Regulation",
+      "Compliance",
+      "Negotiation",
+      "Documentation"
+    ]
+  },
+  "Senior Lawyer": {
+    "skills": [
+      "Documentation",
+      "Litigation",
+      "Negotiation",
+      "Corporate Law",
+      "Legal Knowledge",
+      "Regulation"
+    ]
+  },
+  "Junior Lawyer": {
+    "skills": [
+      "Litigation",
+      "Documentation",
+      "Legal Research",
+      "Legal Knowledge",
+      "Negotiation",
+      "Regulation"
+    ]
+  },
+  "Lead Lawyer": {
+    "skills": [
+      "Negotiation",
+      "Legal Knowledge",
+      "Corporate Law",
+      "Regulation",
+      "Legal Research",
+      "Documentation"
+    ]
+  },
+  "Associate Lawyer": {
+    "skills": [
+      "Compliance",
+      "Litigation",
+      "Negotiation",
+      "Corporate Law",
+      "Documentation",
+      "Regulation"
+    ]
+  },
+  "Principal Lawyer": {
+    "skills": [
+      "Legal Knowledge",
+      "Compliance",
+      "Corporate Law",
+      "Legal Research",
+      "Litigation",
+      "Documentation"
+    ]
+  },
+  "Certified Lawyer": {
+    "skills": [
+      "Compliance",
+      "Regulation",
+      "Litigation",
+      "Legal Research",
+      "Legal Knowledge",
+      "Corporate Law"
+    ]
+  },
+  "Professional Lawyer": {
+    "skills": [
+      "Legal Research",
+      "Documentation",
+      "Legal Knowledge",
+      "Corporate Law",
+      "Regulation",
+      "Litigation"
+    ]
+  },
+  "Advanced Lawyer": {
+    "skills": [
+      "Documentation",
+      "Litigation",
+      "Legal Knowledge",
+      "Regulation",
+      "Compliance",
+      "Corporate Law"
+    ]
+  },
+  "Entry Level Lawyer": {
+    "skills": [
+      "Negotiation",
+      "Compliance",
+      "Legal Research",
+      "Corporate Law",
+      "Litigation",
+      "Regulation"
+    ]
+  },
+  "Specialist Lawyer": {
+    "skills": [
+      "Litigation",
+      "Legal Knowledge",
+      "Corporate Law",
+      "Compliance",
+      "Documentation",
+      "Regulation"
+    ]
+  },
+  "Lawyer - Healthcare": {
+    "skills": [
+      "Negotiation",
+      "Documentation",
+      "Litigation",
+      "Legal Knowledge",
+      "Legal Research",
+      "Compliance"
+    ]
+  },
+  "Lawyer - Finance": {
+    "skills": [
+      "Documentation",
+      "Compliance",
+      "Negotiation",
+      "Legal Research",
+      "Corporate Law",
+      "Legal Knowledge"
+    ]
+  },
+  "Lawyer - Education": {
+    "skills": [
+      "Regulation",
+      "Negotiation",
+      "Litigation",
+      "Corporate Law",
+      "Legal Research",
+      "Legal Knowledge"
+    ]
+  },
+  "Lawyer - Retail": {
+    "skills": [
+      "Legal Research",
+      "Litigation",
+      "Compliance",
+      "Legal Knowledge",
+      "Corporate Law",
+      "Documentation"
+    ]
+  },
+  "Lawyer - Energy": {
+    "skills": [
+      "Negotiation",
+      "Documentation",
+      "Regulation",
+      "Litigation",
+      "Legal Knowledge",
+      "Corporate Law"
+    ]
+  },
+  "Lawyer - Technology": {
+    "skills": [
+      "Regulation",
+      "Documentation",
+      "Corporate Law",
+      "Litigation",
+      "Legal Research",
+      "Legal Knowledge"
+    ]
+  },
+  "Corporate Attorney": {
+    "skills": [
+      "Compliance",
+      "Legal Research",
+      "Legal Knowledge",
+      "Regulation",
+      "Litigation",
+      "Corporate Law"
+    ]
+  },
+  "Senior Corporate Attorney": {
+    "skills": [
+      "Negotiation",
+      "Compliance",
+      "Regulation",
+      "Documentation",
+      "Legal Research",
+      "Corporate Law"
+    ]
+  },
+  "Junior Corporate Attorney": {
+    "skills": [
+      "Documentation",
+      "Compliance",
+      "Litigation",
+      "Legal Research",
+      "Negotiation",
+      "Legal Knowledge"
+    ]
+  },
+  "Lead Corporate Attorney": {
+    "skills": [
+      "Litigation",
+      "Compliance",
+      "Regulation",
+      "Legal Knowledge",
+      "Negotiation",
+      "Corporate Law"
+    ]
+  },
+  "Associate Corporate Attorney": {
+    "skills": [
+      "Litigation",
+      "Legal Research",
+      "Legal Knowledge",
+      "Corporate Law",
+      "Regulation",
+      "Negotiation"
+    ]
+  },
+  "Principal Corporate Attorney": {
+    "skills": [
+      "Legal Knowledge",
+      "Litigation",
+      "Negotiation",
+      "Regulation",
+      "Compliance",
+      "Documentation"
+    ]
+  },
+  "Certified Corporate Attorney": {
+    "skills": [
+      "Legal Knowledge",
+      "Regulation",
+      "Legal Research",
+      "Negotiation",
+      "Corporate Law",
+      "Compliance"
+    ]
+  },
+  "Professional Corporate Attorney": {
+    "skills": [
+      "Legal Research",
+      "Compliance",
+      "Negotiation",
+      "Regulation",
+      "Legal Knowledge",
+      "Documentation"
+    ]
+  },
+  "Advanced Corporate Attorney": {
+    "skills": [
+      "Regulation",
+      "Negotiation",
+      "Legal Research",
+      "Compliance",
+      "Corporate Law",
+      "Legal Knowledge"
+    ]
+  },
+  "Entry Level Corporate Attorney": {
+    "skills": [
+      "Corporate Law",
+      "Regulation",
+      "Legal Research",
+      "Documentation",
+      "Legal Knowledge",
+      "Litigation"
+    ]
+  },
+  "Specialist Corporate Attorney": {
+    "skills": [
+      "Negotiation",
+      "Legal Knowledge",
+      "Documentation",
+      "Litigation",
+      "Compliance",
+      "Corporate Law"
+    ]
+  },
+  "Corporate Attorney - Healthcare": {
+    "skills": [
+      "Negotiation",
+      "Corporate Law",
+      "Compliance",
+      "Litigation",
+      "Legal Research",
+      "Documentation"
+    ]
+  },
+  "Corporate Attorney - Finance": {
+    "skills": [
+      "Litigation",
+      "Regulation",
+      "Corporate Law",
+      "Negotiation",
+      "Legal Knowledge",
+      "Compliance"
+    ]
+  },
+  "Corporate Attorney - Education": {
+    "skills": [
+      "Legal Research",
+      "Corporate Law",
+      "Legal Knowledge",
+      "Compliance",
+      "Negotiation",
+      "Regulation"
+    ]
+  },
+  "Corporate Attorney - Retail": {
+    "skills": [
+      "Corporate Law",
+      "Legal Knowledge",
+      "Documentation",
+      "Negotiation",
+      "Legal Research",
+      "Litigation"
+    ]
+  },
+  "Corporate Attorney - Energy": {
+    "skills": [
+      "Corporate Law",
+      "Documentation",
+      "Negotiation",
+      "Legal Knowledge",
+      "Compliance",
+      "Legal Research"
+    ]
+  },
+  "Corporate Attorney - Technology": {
+    "skills": [
+      "Negotiation",
+      "Corporate Law",
+      "Litigation",
+      "Regulation",
+      "Compliance",
+      "Legal Knowledge"
+    ]
+  },
+  "Legal Advisor": {
+    "skills": [
+      "Legal Research",
+      "Legal Knowledge",
+      "Litigation",
+      "Documentation",
+      "Regulation",
+      "Corporate Law"
+    ]
+  },
+  "Senior Legal Advisor": {
+    "skills": [
+      "Negotiation",
+      "Documentation",
+      "Legal Research",
+      "Corporate Law",
+      "Litigation",
+      "Regulation"
+    ]
+  },
+  "Junior Legal Advisor": {
+    "skills": [
+      "Corporate Law",
+      "Regulation",
+      "Compliance",
+      "Negotiation",
+      "Litigation",
+      "Documentation"
+    ]
+  },
+  "Lead Legal Advisor": {
+    "skills": [
+      "Compliance",
+      "Documentation",
+      "Legal Research",
+      "Litigation",
+      "Negotiation",
+      "Legal Knowledge"
+    ]
+  },
+  "Associate Legal Advisor": {
+    "skills": [
+      "Legal Knowledge",
+      "Corporate Law",
+      "Regulation",
+      "Litigation",
+      "Documentation",
+      "Legal Research"
+    ]
+  },
+  "Principal Legal Advisor": {
+    "skills": [
+      "Corporate Law",
+      "Litigation",
+      "Documentation",
+      "Regulation",
+      "Legal Research",
+      "Compliance"
+    ]
+  },
+  "Certified Legal Advisor": {
+    "skills": [
+      "Litigation",
+      "Negotiation",
+      "Compliance",
+      "Regulation",
+      "Corporate Law",
+      "Legal Knowledge"
+    ]
+  },
+  "Professional Legal Advisor": {
+    "skills": [
+      "Litigation",
+      "Legal Knowledge",
+      "Negotiation",
+      "Regulation",
+      "Corporate Law",
+      "Documentation"
+    ]
+  },
+  "Advanced Legal Advisor": {
+    "skills": [
+      "Litigation",
+      "Corporate Law",
+      "Legal Research",
+      "Compliance",
+      "Documentation",
+      "Regulation"
+    ]
+  },
+  "Entry Level Legal Advisor": {
+    "skills": [
+      "Regulation",
+      "Corporate Law",
+      "Documentation",
+      "Litigation",
+      "Compliance",
+      "Negotiation"
+    ]
+  },
+  "Specialist Legal Advisor": {
+    "skills": [
+      "Litigation",
+      "Legal Research",
+      "Compliance",
+      "Corporate Law",
+      "Legal Knowledge",
+      "Negotiation"
+    ]
+  },
+  "Legal Advisor - Healthcare": {
+    "skills": [
+      "Negotiation",
+      "Legal Research",
+      "Litigation",
+      "Corporate Law",
+      "Documentation",
+      "Legal Knowledge"
+    ]
+  },
+  "Legal Advisor - Finance": {
+    "skills": [
+      "Regulation",
+      "Legal Knowledge",
+      "Compliance",
+      "Litigation",
+      "Legal Research",
+      "Documentation"
+    ]
+  },
+  "Legal Advisor - Education": {
+    "skills": [
+      "Litigation",
+      "Legal Knowledge",
+      "Negotiation",
+      "Documentation",
+      "Regulation",
+      "Corporate Law"
+    ]
+  },
+  "Legal Advisor - Retail": {
+    "skills": [
+      "Regulation",
+      "Legal Knowledge",
+      "Litigation",
+      "Corporate Law",
+      "Negotiation",
+      "Legal Research"
+    ]
+  },
+  "Legal Advisor - Energy": {
+    "skills": [
+      "Legal Knowledge",
+      "Corporate Law",
+      "Compliance",
+      "Negotiation",
+      "Regulation",
+      "Legal Research"
+    ]
+  },
+  "Legal Advisor - Technology": {
+    "skills": [
+      "Litigation",
+      "Negotiation",
+      "Documentation",
+      "Legal Research",
+      "Compliance",
+      "Legal Knowledge"
+    ]
+  },
+  "Business Analyst": {
+    "skills": [
+      "Operations",
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Market Analysis",
+      "Leadership",
+      "Project Management"
+    ]
+  },
+  "Senior Business Analyst": {
+    "skills": [
+      "Leadership",
+      "Project Management",
+      "Communication",
+      "Strategic Planning",
+      "Operations",
+      "Business Intelligence"
+    ]
+  },
+  "Junior Business Analyst": {
+    "skills": [
+      "Operations",
+      "Project Management",
+      "Business Intelligence",
+      "Communication",
+      "Entrepreneurship",
+      "Leadership"
+    ]
+  },
+  "Lead Business Analyst": {
+    "skills": [
+      "Strategic Planning",
+      "Market Analysis",
+      "Entrepreneurship",
+      "Communication",
+      "Project Management",
+      "Leadership"
+    ]
+  },
+  "Associate Business Analyst": {
+    "skills": [
+      "Operations",
+      "Entrepreneurship",
+      "Project Management",
+      "Leadership",
+      "Business Intelligence",
+      "Market Analysis"
+    ]
+  },
+  "Principal Business Analyst": {
+    "skills": [
+      "Operations",
+      "Communication",
+      "Market Analysis",
+      "Business Intelligence",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "Certified Business Analyst": {
+    "skills": [
+      "Business Intelligence",
+      "Leadership",
+      "Project Management",
+      "Operations",
+      "Market Analysis",
+      "Communication"
+    ]
+  },
+  "Professional Business Analyst": {
+    "skills": [
+      "Project Management",
+      "Leadership",
+      "Operations",
+      "Business Intelligence",
+      "Entrepreneurship",
+      "Strategic Planning"
+    ]
+  },
+  "Advanced Business Analyst": {
+    "skills": [
+      "Market Analysis",
+      "Entrepreneurship",
+      "Operations",
+      "Leadership",
+      "Communication",
+      "Project Management"
+    ]
+  },
+  "Entry Level Business Analyst": {
+    "skills": [
+      "Project Management",
+      "Communication",
+      "Business Intelligence",
+      "Market Analysis",
+      "Operations",
+      "Strategic Planning"
+    ]
+  },
+  "Specialist Business Analyst": {
+    "skills": [
+      "Operations",
+      "Entrepreneurship",
+      "Project Management",
+      "Leadership",
+      "Business Intelligence",
+      "Market Analysis"
+    ]
+  },
+  "Business Analyst - Healthcare": {
+    "skills": [
+      "Operations",
+      "Entrepreneurship",
+      "Market Analysis",
+      "Leadership",
+      "Project Management",
+      "Business Intelligence"
+    ]
+  },
+  "Business Analyst - Finance": {
+    "skills": [
+      "Operations",
+      "Strategic Planning",
+      "Project Management",
+      "Communication",
+      "Leadership",
+      "Market Analysis"
+    ]
+  },
+  "Business Analyst - Education": {
+    "skills": [
+      "Leadership",
+      "Project Management",
+      "Business Intelligence",
+      "Entrepreneurship",
+      "Operations",
+      "Communication"
+    ]
+  },
+  "Business Analyst - Retail": {
+    "skills": [
+      "Market Analysis",
+      "Strategic Planning",
+      "Communication",
+      "Business Intelligence",
+      "Operations",
+      "Project Management"
+    ]
+  },
+  "Business Analyst - Energy": {
+    "skills": [
+      "Market Analysis",
+      "Communication",
+      "Business Intelligence",
+      "Leadership",
+      "Project Management",
+      "Entrepreneurship"
+    ]
+  },
+  "Business Analyst - Technology": {
+    "skills": [
+      "Leadership",
+      "Strategic Planning",
+      "Business Intelligence",
+      "Operations",
+      "Entrepreneurship",
+      "Communication"
+    ]
+  },
+  "Product Manager": {
+    "skills": [
+      "Operations",
+      "Market Analysis",
+      "Communication",
+      "Project Management",
+      "Business Intelligence",
+      "Strategic Planning"
+    ]
+  },
+  "Senior Product Manager": {
+    "skills": [
+      "Operations",
+      "Business Intelligence",
+      "Leadership",
+      "Market Analysis",
+      "Project Management",
+      "Strategic Planning"
+    ]
+  },
+  "Junior Product Manager": {
+    "skills": [
+      "Leadership",
+      "Operations",
+      "Strategic Planning",
+      "Market Analysis",
+      "Communication",
+      "Business Intelligence"
+    ]
+  },
+  "Lead Product Manager": {
+    "skills": [
+      "Entrepreneurship",
+      "Market Analysis",
+      "Strategic Planning",
+      "Business Intelligence",
+      "Communication",
+      "Project Management"
+    ]
+  },
+  "Associate Product Manager": {
+    "skills": [
+      "Communication",
+      "Strategic Planning",
+      "Project Management",
+      "Business Intelligence",
+      "Market Analysis",
+      "Entrepreneurship"
+    ]
+  },
+  "Principal Product Manager": {
+    "skills": [
+      "Project Management",
+      "Operations",
+      "Entrepreneurship",
+      "Leadership",
+      "Market Analysis",
+      "Communication"
+    ]
+  },
+  "Certified Product Manager": {
+    "skills": [
+      "Business Intelligence",
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Market Analysis",
+      "Project Management",
+      "Operations"
+    ]
+  },
+  "Professional Product Manager": {
+    "skills": [
+      "Strategic Planning",
+      "Market Analysis",
+      "Operations",
+      "Leadership",
+      "Business Intelligence",
+      "Entrepreneurship"
+    ]
+  },
+  "Advanced Product Manager": {
+    "skills": [
+      "Operations",
+      "Project Management",
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Business Intelligence",
+      "Market Analysis"
+    ]
+  },
+  "Entry Level Product Manager": {
+    "skills": [
+      "Business Intelligence",
+      "Market Analysis",
+      "Communication",
+      "Project Management",
+      "Strategic Planning",
+      "Leadership"
+    ]
+  },
+  "Specialist Product Manager": {
+    "skills": [
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Project Management",
+      "Leadership",
+      "Operations",
+      "Business Intelligence"
+    ]
+  },
+  "Product Manager - Healthcare": {
+    "skills": [
+      "Strategic Planning",
+      "Leadership",
+      "Project Management",
+      "Operations",
+      "Communication",
+      "Market Analysis"
+    ]
+  },
+  "Product Manager - Finance": {
+    "skills": [
+      "Operations",
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Project Management",
+      "Market Analysis",
+      "Leadership"
+    ]
+  },
+  "Product Manager - Education": {
+    "skills": [
+      "Leadership",
+      "Business Intelligence",
+      "Market Analysis",
+      "Project Management",
+      "Strategic Planning",
+      "Entrepreneurship"
+    ]
+  },
+  "Product Manager - Retail": {
+    "skills": [
+      "Leadership",
+      "Market Analysis",
+      "Project Management",
+      "Communication",
+      "Strategic Planning",
+      "Business Intelligence"
+    ]
+  },
+  "Product Manager - Energy": {
+    "skills": [
+      "Market Analysis",
+      "Communication",
+      "Project Management",
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Operations"
+    ]
+  },
+  "Product Manager - Technology": {
+    "skills": [
+      "Communication",
+      "Business Intelligence",
+      "Strategic Planning",
+      "Project Management",
+      "Market Analysis",
+      "Entrepreneurship"
+    ]
+  },
+  "Operations Manager": {
+    "skills": [
+      "Market Analysis",
+      "Operations",
+      "Business Intelligence",
+      "Leadership",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "Senior Operations Manager": {
+    "skills": [
+      "Operations",
+      "Market Analysis",
+      "Communication",
+      "Project Management",
+      "Leadership",
+      "Strategic Planning"
+    ]
+  },
+  "Junior Operations Manager": {
+    "skills": [
+      "Project Management",
+      "Entrepreneurship",
+      "Business Intelligence",
+      "Market Analysis",
+      "Operations",
+      "Strategic Planning"
+    ]
+  },
+  "Lead Operations Manager": {
+    "skills": [
+      "Communication",
+      "Market Analysis",
+      "Strategic Planning",
+      "Business Intelligence",
+      "Entrepreneurship",
+      "Leadership"
+    ]
+  },
+  "Associate Operations Manager": {
+    "skills": [
+      "Entrepreneurship",
+      "Project Management",
+      "Communication",
+      "Strategic Planning",
+      "Business Intelligence",
+      "Leadership"
+    ]
+  },
+  "Principal Operations Manager": {
+    "skills": [
+      "Operations",
+      "Market Analysis",
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Communication",
+      "Leadership"
+    ]
+  },
+  "Certified Operations Manager": {
+    "skills": [
+      "Operations",
+      "Business Intelligence",
+      "Communication",
+      "Project Management",
+      "Market Analysis",
+      "Entrepreneurship"
+    ]
+  },
+  "Professional Operations Manager": {
+    "skills": [
+      "Communication",
+      "Operations",
+      "Business Intelligence",
+      "Leadership",
+      "Entrepreneurship",
+      "Market Analysis"
+    ]
+  },
+  "Advanced Operations Manager": {
+    "skills": [
+      "Strategic Planning",
+      "Operations",
+      "Project Management",
+      "Leadership",
+      "Business Intelligence",
+      "Market Analysis"
+    ]
+  },
+  "Entry Level Operations Manager": {
+    "skills": [
+      "Strategic Planning",
+      "Market Analysis",
+      "Communication",
+      "Entrepreneurship",
+      "Operations",
+      "Leadership"
+    ]
+  },
+  "Specialist Operations Manager": {
+    "skills": [
+      "Market Analysis",
+      "Operations",
+      "Entrepreneurship",
+      "Strategic Planning",
+      "Communication",
+      "Project Management"
+    ]
+  },
+  "Operations Manager - Healthcare": {
+    "skills": [
+      "Communication",
+      "Operations",
+      "Strategic Planning",
+      "Project Management",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "Operations Manager - Finance": {
+    "skills": [
+      "Entrepreneurship",
+      "Business Intelligence",
+      "Leadership",
+      "Market Analysis",
+      "Operations",
+      "Communication"
+    ]
+  },
+  "Operations Manager - Education": {
+    "skills": [
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Leadership",
+      "Communication",
+      "Project Management",
+      "Business Intelligence"
+    ]
+  },
+  "Operations Manager - Retail": {
+    "skills": [
+      "Business Intelligence",
+      "Operations",
+      "Entrepreneurship",
+      "Leadership",
+      "Project Management",
+      "Market Analysis"
+    ]
+  },
+  "Operations Manager - Energy": {
+    "skills": [
+      "Operations",
+      "Market Analysis",
+      "Business Intelligence",
+      "Communication",
+      "Strategic Planning",
+      "Project Management"
+    ]
+  },
+  "Operations Manager - Technology": {
+    "skills": [
+      "Project Management",
+      "Market Analysis",
+      "Leadership",
+      "Operations",
+      "Strategic Planning",
+      "Entrepreneurship"
+    ]
+  },
+  "Marketing Manager": {
+    "skills": [
+      "Entrepreneurship",
+      "Operations",
+      "Leadership",
+      "Communication",
+      "Strategic Planning",
+      "Market Analysis"
+    ]
+  },
+  "Senior Marketing Manager": {
+    "skills": [
+      "Project Management",
+      "Entrepreneurship",
+      "Operations",
+      "Leadership",
+      "Strategic Planning",
+      "Business Intelligence"
+    ]
+  },
+  "Junior Marketing Manager": {
+    "skills": [
+      "Project Management",
+      "Operations",
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Market Analysis",
+      "Business Intelligence"
+    ]
+  },
+  "Lead Marketing Manager": {
+    "skills": [
+      "Leadership",
+      "Operations",
+      "Market Analysis",
+      "Entrepreneurship",
+      "Project Management",
+      "Strategic Planning"
+    ]
+  },
+  "Associate Marketing Manager": {
+    "skills": [
+      "Strategic Planning",
+      "Communication",
+      "Project Management",
+      "Business Intelligence",
+      "Market Analysis",
+      "Leadership"
+    ]
+  },
+  "Principal Marketing Manager": {
+    "skills": [
+      "Strategic Planning",
+      "Market Analysis",
+      "Communication",
+      "Leadership",
+      "Business Intelligence",
+      "Entrepreneurship"
+    ]
+  },
+  "Certified Marketing Manager": {
+    "skills": [
+      "Entrepreneurship",
+      "Operations",
+      "Business Intelligence",
+      "Project Management",
+      "Market Analysis",
+      "Leadership"
+    ]
+  },
+  "Professional Marketing Manager": {
+    "skills": [
+      "Leadership",
+      "Operations",
+      "Project Management",
+      "Business Intelligence",
+      "Communication",
+      "Entrepreneurship"
+    ]
+  },
+  "Advanced Marketing Manager": {
+    "skills": [
+      "Leadership",
+      "Operations",
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Business Intelligence",
+      "Market Analysis"
+    ]
+  },
+  "Entry Level Marketing Manager": {
+    "skills": [
+      "Communication",
+      "Strategic Planning",
+      "Project Management",
+      "Entrepreneurship",
+      "Market Analysis",
+      "Operations"
+    ]
+  },
+  "Specialist Marketing Manager": {
+    "skills": [
+      "Leadership",
+      "Communication",
+      "Business Intelligence",
+      "Strategic Planning",
+      "Entrepreneurship",
+      "Operations"
+    ]
+  },
+  "Marketing Manager - Healthcare": {
+    "skills": [
+      "Communication",
+      "Market Analysis",
+      "Project Management",
+      "Strategic Planning",
+      "Leadership",
+      "Entrepreneurship"
+    ]
+  },
+  "Marketing Manager - Finance": {
+    "skills": [
+      "Communication",
+      "Project Management",
+      "Entrepreneurship",
+      "Operations",
+      "Business Intelligence",
+      "Strategic Planning"
+    ]
+  },
+  "Marketing Manager - Education": {
+    "skills": [
+      "Communication",
+      "Market Analysis",
+      "Operations",
+      "Leadership",
+      "Entrepreneurship",
+      "Business Intelligence"
+    ]
+  },
+  "Marketing Manager - Retail": {
+    "skills": [
+      "Leadership",
+      "Project Management",
+      "Market Analysis",
+      "Business Intelligence",
+      "Strategic Planning",
+      "Entrepreneurship"
+    ]
+  },
+  "Marketing Manager - Energy": {
+    "skills": [
+      "Project Management",
+      "Entrepreneurship",
+      "Operations",
+      "Communication",
+      "Business Intelligence",
+      "Strategic Planning"
+    ]
+  },
+  "Marketing Manager - Technology": {
+    "skills": [
+      "Business Intelligence",
+      "Entrepreneurship",
+      "Communication",
+      "Operations",
+      "Market Analysis",
+      "Strategic Planning"
+    ]
+  },
+  "Teacher": {
+    "skills": [
+      "Research",
+      "Curriculum Design",
+      "Teaching",
+      "Public Speaking",
+      "Academic Writing",
+      "Student Assessment"
+    ]
+  },
+  "Senior Teacher": {
+    "skills": [
+      "Academic Writing",
+      "Public Speaking",
+      "Curriculum Design",
+      "Teaching",
+      "Student Assessment",
+      "Research"
+    ]
+  },
+  "Junior Teacher": {
+    "skills": [
+      "Student Assessment",
+      "Research",
+      "Teaching",
+      "Public Speaking",
+      "Academic Writing",
+      "Curriculum Design"
+    ]
+  },
+  "Lead Teacher": {
+    "skills": [
+      "Academic Writing",
+      "Teaching",
+      "Curriculum Design",
+      "Public Speaking",
+      "Student Assessment",
+      "Research"
+    ]
+  },
+  "Associate Teacher": {
+    "skills": [
+      "Student Assessment",
+      "Research",
+      "Curriculum Design",
+      "Public Speaking",
+      "Academic Writing",
+      "Teaching"
+    ]
+  },
+  "Principal Teacher": {
+    "skills": [
+      "Teaching",
+      "Student Assessment",
+      "Academic Writing",
+      "Research",
+      "Curriculum Design",
+      "Public Speaking"
+    ]
+  },
+  "Certified Teacher": {
+    "skills": [
+      "Public Speaking",
+      "Research",
+      "Academic Writing",
+      "Student Assessment",
+      "Teaching",
+      "Curriculum Design"
+    ]
+  },
+  "Professional Teacher": {
+    "skills": [
+      "Curriculum Design",
+      "Teaching",
+      "Student Assessment",
+      "Academic Writing",
+      "Public Speaking",
+      "Research"
+    ]
+  },
+  "Advanced Teacher": {
+    "skills": [
+      "Research",
+      "Curriculum Design",
+      "Public Speaking",
+      "Academic Writing",
+      "Student Assessment",
+      "Teaching"
+    ]
+  },
+  "Entry Level Teacher": {
+    "skills": [
+      "Research",
+      "Teaching",
+      "Curriculum Design",
+      "Public Speaking",
+      "Academic Writing",
+      "Student Assessment"
+    ]
+  },
+  "Specialist Teacher": {
+    "skills": [
+      "Public Speaking",
+      "Student Assessment",
+      "Teaching",
+      "Research",
+      "Academic Writing",
+      "Curriculum Design"
+    ]
+  },
+  "Teacher - Healthcare": {
+    "skills": [
+      "Curriculum Design",
+      "Teaching",
+      "Academic Writing",
+      "Student Assessment",
+      "Research",
+      "Public Speaking"
+    ]
+  },
+  "Teacher - Finance": {
+    "skills": [
+      "Teaching",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing",
+      "Student Assessment",
+      "Public Speaking"
+    ]
+  },
+  "Teacher - Education": {
+    "skills": [
+      "Teaching",
+      "Public Speaking",
+      "Student Assessment",
+      "Research",
+      "Academic Writing",
+      "Curriculum Design"
+    ]
+  },
+  "Teacher - Retail": {
+    "skills": [
+      "Curriculum Design",
+      "Student Assessment",
+      "Public Speaking",
+      "Academic Writing",
+      "Research",
+      "Teaching"
+    ]
+  },
+  "Teacher - Energy": {
+    "skills": [
+      "Student Assessment",
+      "Curriculum Design",
+      "Teaching",
+      "Public Speaking",
+      "Research",
+      "Academic Writing"
+    ]
+  },
+  "Teacher - Technology": {
+    "skills": [
+      "Student Assessment",
+      "Public Speaking",
+      "Teaching",
+      "Curriculum Design",
+      "Academic Writing",
+      "Research"
+    ]
+  },
+  "Professor": {
+    "skills": [
+      "Teaching",
+      "Student Assessment",
+      "Public Speaking",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing"
+    ]
+  },
+  "Senior Professor": {
+    "skills": [
+      "Student Assessment",
+      "Public Speaking",
+      "Curriculum Design",
+      "Academic Writing",
+      "Teaching",
+      "Research"
+    ]
+  },
+  "Junior Professor": {
+    "skills": [
+      "Teaching",
+      "Student Assessment",
+      "Research",
+      "Academic Writing",
+      "Curriculum Design",
+      "Public Speaking"
+    ]
+  },
+  "Lead Professor": {
+    "skills": [
+      "Curriculum Design",
+      "Public Speaking",
+      "Student Assessment",
+      "Academic Writing",
+      "Research",
+      "Teaching"
+    ]
+  },
+  "Associate Professor": {
+    "skills": [
+      "Academic Writing",
+      "Curriculum Design",
+      "Teaching",
+      "Public Speaking",
+      "Research",
+      "Student Assessment"
+    ]
+  },
+  "Principal Professor": {
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Public Speaking",
+      "Student Assessment",
+      "Teaching",
+      "Curriculum Design"
+    ]
+  },
+  "Certified Professor": {
+    "skills": [
+      "Academic Writing",
+      "Curriculum Design",
+      "Student Assessment",
+      "Teaching",
+      "Public Speaking",
+      "Research"
+    ]
+  },
+  "Professional Professor": {
+    "skills": [
+      "Student Assessment",
+      "Public Speaking",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing",
+      "Teaching"
+    ]
+  },
+  "Advanced Professor": {
+    "skills": [
+      "Academic Writing",
+      "Research",
+      "Curriculum Design",
+      "Student Assessment",
+      "Public Speaking",
+      "Teaching"
+    ]
+  },
+  "Entry Level Professor": {
+    "skills": [
+      "Teaching",
+      "Curriculum Design",
+      "Public Speaking",
+      "Research",
+      "Academic Writing",
+      "Student Assessment"
+    ]
+  },
+  "Specialist Professor": {
+    "skills": [
+      "Public Speaking",
+      "Curriculum Design",
+      "Teaching",
+      "Academic Writing",
+      "Research",
+      "Student Assessment"
+    ]
+  },
+  "Professor - Healthcare": {
+    "skills": [
+      "Teaching",
+      "Research",
+      "Curriculum Design",
+      "Public Speaking",
+      "Student Assessment",
+      "Academic Writing"
+    ]
+  },
+  "Professor - Finance": {
+    "skills": [
+      "Student Assessment",
+      "Academic Writing",
+      "Public Speaking",
+      "Research",
+      "Curriculum Design",
+      "Teaching"
+    ]
+  },
+  "Professor - Education": {
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Student Assessment",
+      "Curriculum Design",
+      "Public Speaking",
+      "Teaching"
+    ]
+  },
+  "Professor - Retail": {
+    "skills": [
+      "Public Speaking",
+      "Academic Writing",
+      "Curriculum Design",
+      "Student Assessment",
+      "Research",
+      "Teaching"
+    ]
+  },
+  "Professor - Energy": {
+    "skills": [
+      "Student Assessment",
+      "Academic Writing",
+      "Curriculum Design",
+      "Teaching",
+      "Research",
+      "Public Speaking"
+    ]
+  },
+  "Professor - Technology": {
+    "skills": [
+      "Student Assessment",
+      "Academic Writing",
+      "Teaching",
+      "Research",
+      "Public Speaking",
+      "Curriculum Design"
+    ]
+  },
+  "Education Consultant": {
+    "skills": [
+      "Curriculum Design",
+      "Public Speaking",
+      "Research",
+      "Teaching",
+      "Student Assessment",
+      "Academic Writing"
+    ]
+  },
+  "Senior Education Consultant": {
+    "skills": [
+      "Teaching",
+      "Academic Writing",
+      "Curriculum Design",
+      "Public Speaking",
+      "Research",
+      "Student Assessment"
+    ]
+  },
+  "Junior Education Consultant": {
+    "skills": [
+      "Student Assessment",
+      "Public Speaking",
+      "Curriculum Design",
+      "Academic Writing",
+      "Teaching",
+      "Research"
+    ]
+  },
+  "Lead Education Consultant": {
+    "skills": [
+      "Curriculum Design",
+      "Public Speaking",
+      "Academic Writing",
+      "Student Assessment",
+      "Research",
+      "Teaching"
+    ]
+  },
+  "Associate Education Consultant": {
+    "skills": [
+      "Teaching",
+      "Curriculum Design",
+      "Academic Writing",
+      "Research",
+      "Student Assessment",
+      "Public Speaking"
+    ]
+  },
+  "Principal Education Consultant": {
+    "skills": [
+      "Academic Writing",
+      "Teaching",
+      "Curriculum Design",
+      "Research",
+      "Public Speaking",
+      "Student Assessment"
+    ]
+  },
+  "Certified Education Consultant": {
+    "skills": [
+      "Teaching",
+      "Public Speaking",
+      "Student Assessment",
+      "Academic Writing",
+      "Curriculum Design",
+      "Research"
+    ]
+  },
+  "Professional Education Consultant": {
+    "skills": [
+      "Public Speaking",
+      "Student Assessment",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing",
+      "Teaching"
+    ]
+  },
+  "Advanced Education Consultant": {
+    "skills": [
+      "Student Assessment",
+      "Teaching",
+      "Curriculum Design",
+      "Academic Writing",
+      "Public Speaking",
+      "Research"
+    ]
+  },
+  "Entry Level Education Consultant": {
+    "skills": [
+      "Student Assessment",
+      "Teaching",
+      "Public Speaking",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing"
+    ]
+  },
+  "Specialist Education Consultant": {
+    "skills": [
+      "Teaching",
+      "Research",
+      "Student Assessment",
+      "Public Speaking",
+      "Academic Writing",
+      "Curriculum Design"
+    ]
+  },
+  "Education Consultant - Healthcare": {
+    "skills": [
+      "Academic Writing",
+      "Curriculum Design",
+      "Student Assessment",
+      "Research",
+      "Public Speaking",
+      "Teaching"
+    ]
+  },
+  "Education Consultant - Finance": {
+    "skills": [
+      "Academic Writing",
+      "Teaching",
+      "Curriculum Design",
+      "Public Speaking",
+      "Student Assessment",
+      "Research"
+    ]
+  },
+  "Education Consultant - Education": {
+    "skills": [
+      "Student Assessment",
+      "Academic Writing",
+      "Research",
+      "Curriculum Design",
+      "Teaching",
+      "Public Speaking"
+    ]
+  },
+  "Education Consultant - Retail": {
+    "skills": [
+      "Academic Writing",
+      "Student Assessment",
+      "Curriculum Design",
+      "Teaching",
+      "Research",
+      "Public Speaking"
+    ]
+  },
+  "Education Consultant - Energy": {
+    "skills": [
+      "Academic Writing",
+      "Student Assessment",
+      "Public Speaking",
+      "Curriculum Design",
+      "Research",
+      "Teaching"
+    ]
+  },
+  "Education Consultant - Technology": {
+    "skills": [
+      "Public Speaking",
+      "Student Assessment",
+      "Curriculum Design",
+      "Research",
+      "Academic Writing",
+      "Teaching"
+    ]
+  },
+  "Graphic Designer": {
+    "skills": [
+      "Creativity",
+      "Design",
+      "Illustration",
+      "Video Editing",
+      "Storytelling",
+      "Animation"
+    ]
+  },
+  "Senior Graphic Designer": {
+    "skills": [
+      "Storytelling",
+      "Video Editing",
+      "Design",
+      "Animation",
+      "Photography",
+      "Creativity"
+    ]
+  },
+  "Junior Graphic Designer": {
+    "skills": [
+      "Illustration",
+      "Video Editing",
+      "Creativity",
+      "Storytelling",
+      "Photography",
+      "Design"
+    ]
+  },
+  "Lead Graphic Designer": {
+    "skills": [
+      "Photography",
+      "Storytelling",
+      "Illustration",
+      "Creativity",
+      "Design",
+      "Animation"
+    ]
+  },
+  "Associate Graphic Designer": {
+    "skills": [
+      "Illustration",
+      "Video Editing",
+      "Animation",
+      "Creativity",
+      "Photography",
+      "Design"
+    ]
+  },
+  "Principal Graphic Designer": {
+    "skills": [
+      "Storytelling",
+      "Photography",
+      "Creativity",
+      "Animation",
+      "Design",
+      "Illustration"
+    ]
+  },
+  "Certified Graphic Designer": {
+    "skills": [
+      "Design",
+      "Animation",
+      "Creativity",
+      "Storytelling",
+      "Illustration",
+      "Photography"
+    ]
+  },
+  "Professional Graphic Designer": {
+    "skills": [
+      "Creativity",
+      "Video Editing",
+      "Animation",
+      "Illustration",
+      "Design",
+      "Photography"
+    ]
+  },
+  "Advanced Graphic Designer": {
+    "skills": [
+      "Photography",
+      "Video Editing",
+      "Illustration",
+      "Storytelling",
+      "Animation",
+      "Design"
+    ]
+  },
+  "Entry Level Graphic Designer": {
+    "skills": [
+      "Illustration",
+      "Animation",
+      "Video Editing",
+      "Storytelling",
+      "Design",
+      "Creativity"
+    ]
+  },
+  "Specialist Graphic Designer": {
+    "skills": [
+      "Video Editing",
+      "Creativity",
+      "Design",
+      "Illustration",
+      "Storytelling",
+      "Animation"
+    ]
+  },
+  "Graphic Designer - Healthcare": {
+    "skills": [
+      "Storytelling",
+      "Creativity",
+      "Animation",
+      "Video Editing",
+      "Illustration",
+      "Design"
+    ]
+  },
+  "Graphic Designer - Finance": {
+    "skills": [
+      "Storytelling",
+      "Design",
+      "Illustration",
+      "Photography",
+      "Creativity",
+      "Video Editing"
+    ]
+  },
+  "Graphic Designer - Education": {
+    "skills": [
+      "Photography",
+      "Video Editing",
+      "Creativity",
+      "Storytelling",
+      "Illustration",
+      "Animation"
+    ]
+  },
+  "Graphic Designer - Retail": {
+    "skills": [
+      "Photography",
+      "Illustration",
+      "Design",
+      "Animation",
+      "Creativity",
+      "Video Editing"
+    ]
+  },
+  "Graphic Designer - Energy": {
+    "skills": [
+      "Design",
+      "Creativity",
+      "Illustration",
+      "Storytelling",
+      "Photography",
+      "Video Editing"
+    ]
+  },
+  "Graphic Designer - Technology": {
+    "skills": [
+      "Storytelling",
+      "Animation",
+      "Creativity",
+      "Illustration",
+      "Design",
+      "Photography"
+    ]
+  },
+  "Film Director": {
+    "skills": [
+      "Photography",
+      "Illustration",
+      "Design",
+      "Video Editing",
+      "Storytelling",
+      "Animation"
+    ]
+  },
+  "Senior Film Director": {
+    "skills": [
+      "Video Editing",
+      "Photography",
+      "Design",
+      "Illustration",
+      "Creativity",
+      "Storytelling"
+    ]
+  },
+  "Junior Film Director": {
+    "skills": [
+      "Animation",
+      "Photography",
+      "Illustration",
+      "Video Editing",
+      "Creativity",
+      "Storytelling"
+    ]
+  },
+  "Lead Film Director": {
+    "skills": [
+      "Photography",
+      "Creativity",
+      "Video Editing",
+      "Illustration",
+      "Animation",
+      "Storytelling"
+    ]
+  },
+  "Associate Film Director": {
+    "skills": [
+      "Design",
+      "Animation",
+      "Illustration",
+      "Creativity",
+      "Storytelling",
+      "Photography"
+    ]
+  },
+  "Principal Film Director": {
+    "skills": [
+      "Photography",
+      "Video Editing",
+      "Animation",
+      "Design",
+      "Creativity",
+      "Illustration"
+    ]
+  },
+  "Certified Film Director": {
+    "skills": [
+      "Creativity",
+      "Animation",
+      "Video Editing",
+      "Storytelling",
+      "Design",
+      "Illustration"
+    ]
+  },
+  "Professional Film Director": {
+    "skills": [
+      "Illustration",
+      "Creativity",
+      "Photography",
+      "Design",
+      "Animation",
+      "Storytelling"
+    ]
+  },
+  "Advanced Film Director": {
+    "skills": [
+      "Video Editing",
+      "Illustration",
+      "Storytelling",
+      "Design",
+      "Creativity",
+      "Photography"
+    ]
+  },
+  "Entry Level Film Director": {
+    "skills": [
+      "Animation",
+      "Video Editing",
+      "Photography",
+      "Illustration",
+      "Storytelling",
+      "Design"
+    ]
+  },
+  "Specialist Film Director": {
+    "skills": [
+      "Design",
+      "Storytelling",
+      "Animation",
+      "Illustration",
+      "Photography",
+      "Creativity"
+    ]
+  },
+  "Film Director - Healthcare": {
+    "skills": [
+      "Video Editing",
+      "Design",
+      "Illustration",
+      "Storytelling",
+      "Animation",
+      "Photography"
+    ]
+  },
+  "Film Director - Finance": {
+    "skills": [
+      "Storytelling",
+      "Illustration",
+      "Animation",
+      "Design",
+      "Photography",
+      "Video Editing"
+    ]
+  },
+  "Film Director - Education": {
+    "skills": [
+      "Design",
+      "Creativity",
+      "Photography",
+      "Video Editing",
+      "Animation",
+      "Illustration"
+    ]
+  },
+  "Film Director - Retail": {
+    "skills": [
+      "Video Editing",
+      "Photography",
+      "Storytelling",
+      "Animation",
+      "Creativity",
+      "Illustration"
+    ]
+  },
+  "Film Director - Energy": {
+    "skills": [
+      "Photography",
+      "Design",
+      "Video Editing",
+      "Illustration",
+      "Storytelling",
+      "Creativity"
+    ]
+  },
+  "Film Director - Technology": {
+    "skills": [
+      "Animation",
+      "Illustration",
+      "Design",
+      "Video Editing",
+      "Creativity",
+      "Photography"
+    ]
+  },
+  "Content Creator": {
+    "skills": [
+      "Video Editing",
+      "Animation",
+      "Design",
+      "Illustration",
+      "Photography",
+      "Storytelling"
+    ]
+  },
+  "Senior Content Creator": {
+    "skills": [
+      "Creativity",
+      "Animation",
+      "Video Editing",
+      "Design",
+      "Illustration",
+      "Storytelling"
+    ]
+  },
+  "Junior Content Creator": {
+    "skills": [
+      "Storytelling",
+      "Design",
+      "Photography",
+      "Illustration",
+      "Creativity",
+      "Video Editing"
+    ]
+  },
+  "Lead Content Creator": {
+    "skills": [
+      "Photography",
+      "Storytelling",
+      "Illustration",
+      "Creativity",
+      "Design",
+      "Animation"
+    ]
+  },
+  "Associate Content Creator": {
+    "skills": [
+      "Video Editing",
+      "Illustration",
+      "Design",
+      "Animation",
+      "Photography",
+      "Storytelling"
+    ]
+  },
+  "Principal Content Creator": {
+    "skills": [
+      "Illustration",
+      "Design",
+      "Video Editing",
+      "Storytelling",
+      "Photography",
+      "Animation"
+    ]
+  },
+  "Certified Content Creator": {
+    "skills": [
+      "Storytelling",
+      "Illustration",
+      "Creativity",
+      "Video Editing",
+      "Design",
+      "Photography"
+    ]
+  },
+  "Professional Content Creator": {
+    "skills": [
+      "Creativity",
+      "Illustration",
+      "Storytelling",
+      "Design",
+      "Video Editing",
+      "Photography"
+    ]
+  },
+  "Advanced Content Creator": {
+    "skills": [
+      "Video Editing",
+      "Animation",
+      "Storytelling",
+      "Creativity",
+      "Illustration",
+      "Design"
+    ]
+  },
+  "Entry Level Content Creator": {
+    "skills": [
+      "Video Editing",
+      "Photography",
+      "Illustration",
+      "Storytelling",
+      "Creativity",
+      "Design"
+    ]
+  },
+  "Specialist Content Creator": {
+    "skills": [
+      "Photography",
+      "Illustration",
+      "Creativity",
+      "Video Editing",
+      "Design",
+      "Animation"
+    ]
+  },
+  "Content Creator - Healthcare": {
+    "skills": [
+      "Video Editing",
+      "Creativity",
+      "Illustration",
+      "Animation",
+      "Storytelling",
+      "Photography"
+    ]
+  },
+  "Content Creator - Finance": {
+    "skills": [
+      "Design",
+      "Storytelling",
+      "Video Editing",
+      "Creativity",
+      "Animation",
+      "Illustration"
+    ]
+  },
+  "Content Creator - Education": {
+    "skills": [
+      "Video Editing",
+      "Design",
+      "Creativity",
+      "Illustration",
+      "Storytelling",
+      "Animation"
+    ]
+  },
+  "Content Creator - Retail": {
+    "skills": [
+      "Illustration",
+      "Design",
+      "Video Editing",
+      "Storytelling",
+      "Animation",
+      "Creativity"
+    ]
+  },
+  "Content Creator - Energy": {
+    "skills": [
+      "Video Editing",
+      "Photography",
+      "Illustration",
+      "Storytelling",
+      "Design",
+      "Animation"
+    ]
+  },
+  "Content Creator - Technology": {
+    "skills": [
+      "Animation",
+      "Illustration",
+      "Video Editing",
+      "Design",
+      "Creativity",
+      "Storytelling"
+    ]
+  },
+  "Civil Servant": {
+    "skills": [
+      "Governance",
+      "Policy Analysis",
+      "Defense Strategy",
+      "Diplomacy",
+      "Public Administration",
+      "Regulatory Framework"
+    ]
+  },
+  "Senior Civil Servant": {
+    "skills": [
+      "Defense Strategy",
+      "Governance",
+      "Regulatory Framework",
+      "Public Administration",
+      "Diplomacy",
+      "Policy Analysis"
+    ]
+  },
+  "Junior Civil Servant": {
+    "skills": [
+      "Defense Strategy",
+      "Governance",
+      "Regulatory Framework",
+      "Diplomacy",
+      "Public Administration",
+      "Policy Analysis"
+    ]
+  },
+  "Lead Civil Servant": {
+    "skills": [
+      "Policy Analysis",
+      "Defense Strategy",
+      "Governance",
+      "Public Administration",
+      "Diplomacy",
+      "Regulatory Framework"
+    ]
+  },
+  "Associate Civil Servant": {
+    "skills": [
+      "Diplomacy",
+      "Governance",
+      "Defense Strategy",
+      "Public Administration",
+      "Regulatory Framework",
+      "Policy Analysis"
+    ]
+  },
+  "Principal Civil Servant": {
+    "skills": [
+      "Policy Analysis",
+      "Public Administration",
+      "Regulatory Framework",
+      "Defense Strategy",
+      "Governance",
+      "Diplomacy"
+    ]
+  },
+  "Certified Civil Servant": {
+    "skills": [
+      "Regulatory Framework",
+      "Public Administration",
+      "Governance",
+      "Policy Analysis",
+      "Diplomacy",
+      "Defense Strategy"
+    ]
+  },
+  "Professional Civil Servant": {
+    "skills": [
+      "Public Administration",
+      "Regulatory Framework",
+      "Governance",
+      "Defense Strategy",
+      "Policy Analysis",
+      "Diplomacy"
+    ]
+  },
+  "Advanced Civil Servant": {
+    "skills": [
+      "Public Administration",
+      "Regulatory Framework",
+      "Defense Strategy",
+      "Diplomacy",
+      "Policy Analysis",
+      "Governance"
+    ]
+  },
+  "Entry Level Civil Servant": {
+    "skills": [
+      "Defense Strategy",
+      "Diplomacy",
+      "Public Administration",
+      "Governance",
+      "Regulatory Framework",
+      "Policy Analysis"
+    ]
+  },
+  "Specialist Civil Servant": {
+    "skills": [
+      "Policy Analysis",
+      "Public Administration",
+      "Diplomacy",
+      "Defense Strategy",
+      "Governance",
+      "Regulatory Framework"
+    ]
+  },
+  "Civil Servant - Healthcare": {
+    "skills": [
+      "Regulatory Framework",
+      "Policy Analysis",
+      "Governance",
+      "Defense Strategy",
+      "Public Administration",
+      "Diplomacy"
+    ]
+  },
+  "Civil Servant - Finance": {
+    "skills": [
+      "Policy Analysis",
+      "Governance",
+      "Regulatory Framework",
+      "Defense Strategy",
+      "Public Administration",
+      "Diplomacy"
+    ]
+  },
+  "Civil Servant - Education": {
+    "skills": [
+      "Defense Strategy",
+      "Regulatory Framework",
+      "Governance",
+      "Policy Analysis",
+      "Public Administration",
+      "Diplomacy"
+    ]
+  },
+  "Civil Servant - Retail": {
+    "skills": [
+      "Governance",
+      "Regulatory Framework",
+      "Defense Strategy",
+      "Diplomacy",
+      "Public Administration",
+      "Policy Analysis"
+    ]
+  },
+  "Civil Servant - Energy": {
+    "skills": [
+      "Public Administration",
+      "Governance",
+      "Policy Analysis",
+      "Diplomacy",
+      "Defense Strategy",
+      "Regulatory Framework"
+    ]
+  },
+  "Civil Servant - Technology": {
+    "skills": [
+      "Public Administration",
+      "Regulatory Framework",
+      "Diplomacy",
+      "Policy Analysis",
+      "Governance",
+      "Defense Strategy"
+    ]
+  },
+  "Policy Analyst": {
+    "skills": [
+      "Diplomacy",
+      "Policy Analysis",
+      "Governance",
+      "Regulatory Framework",
+      "Public Administration",
+      "Defense Strategy"
+    ]
+  },
+  "Senior Policy Analyst": {
+    "skills": [
+      "Policy Analysis",
+      "Public Administration",
+      "Diplomacy",
+      "Governance",
+      "Regulatory Framework",
+      "Defense Strategy"
+    ]
+  },
+  "Junior Policy Analyst": {
+    "skills": [
+      "Governance",
+      "Regulatory Framework",
+      "Public Administration",
+      "Diplomacy",
+      "Policy Analysis",
+      "Defense Strategy"
+    ]
+  },
+  "Lead Policy Analyst": {
+    "skills": [
+      "Policy Analysis",
+      "Public Administration",
+      "Defense Strategy",
+      "Regulatory Framework",
+      "Diplomacy",
+      "Governance"
+    ]
+  },
+  "Associate Policy Analyst": {
+    "skills": [
+      "Defense Strategy",
+      "Governance",
+      "Public Administration",
+      "Regulatory Framework",
+      "Diplomacy",
+      "Policy Analysis"
+    ]
+  },
+  "Principal Policy Analyst": {
+    "skills": [
+      "Defense Strategy",
+      "Governance",
+      "Regulatory Framework",
+      "Public Administration",
+      "Diplomacy",
+      "Policy Analysis"
+    ]
+  },
+  "Certified Policy Analyst": {
+    "skills": [
+      "Public Administration",
+      "Defense Strategy",
+      "Diplomacy",
+      "Policy Analysis",
+      "Governance",
+      "Regulatory Framework"
+    ]
+  },
+  "Professional Policy Analyst": {
+    "skills": [
+      "Governance",
+      "Policy Analysis",
+      "Diplomacy",
+      "Defense Strategy",
+      "Public Administration",
+      "Regulatory Framework"
+    ]
+  },
+  "Advanced Policy Analyst": {
+    "skills": [
+      "Public Administration",
+      "Diplomacy",
+      "Defense Strategy",
+      "Policy Analysis",
+      "Governance",
+      "Regulatory Framework"
+    ]
+  },
+  "Entry Level Policy Analyst": {
+    "skills": [
+      "Governance",
+      "Regulatory Framework",
+      "Diplomacy",
+      "Public Administration",
+      "Defense Strategy",
+      "Policy Analysis"
+    ]
+  },
+  "Specialist Policy Analyst": {
+    "skills": [
+      "Diplomacy",
+      "Governance",
+      "Policy Analysis",
+      "Defense Strategy",
+      "Public Administration",
+      "Regulatory Framework"
+    ]
+  },
+  "Policy Analyst - Healthcare": {
+    "skills": [
+      "Regulatory Framework",
+      "Governance",
+      "Defense Strategy",
+      "Public Administration",
+      "Diplomacy",
+      "Policy Analysis"
+    ]
+  },
+  "Policy Analyst - Finance": {
+    "skills": [
+      "Diplomacy",
+      "Regulatory Framework",
+      "Policy Analysis",
+      "Defense Strategy",
+      "Governance",
+      "Public Administration"
+    ]
+  },
+  "Policy Analyst - Education": {
+    "skills": [
+      "Defense Strategy",
+      "Public Administration",
+      "Policy Analysis",
+      "Governance",
+      "Diplomacy",
+      "Regulatory Framework"
+    ]
+  },
+  "Policy Analyst - Retail": {
+    "skills": [
+      "Defense Strategy",
+      "Policy Analysis",
+      "Governance",
+      "Diplomacy",
+      "Public Administration",
+      "Regulatory Framework"
+    ]
+  },
+  "Policy Analyst - Energy": {
+    "skills": [
+      "Diplomacy",
+      "Public Administration",
+      "Regulatory Framework",
+      "Policy Analysis",
+      "Defense Strategy",
+      "Governance"
+    ]
+  },
+  "Policy Analyst - Technology": {
+    "skills": [
+      "Defense Strategy",
+      "Governance",
+      "Diplomacy",
+      "Policy Analysis",
+      "Regulatory Framework",
+      "Public Administration"
+    ]
+  },
+  "Physicist": {
+    "skills": [
+      "Laboratory Skills",
+      "Experimentation",
+      "Data Analysis",
+      "Scientific Writing",
+      "Statistics",
+      "Research"
+    ]
+  },
+  "Senior Physicist": {
+    "skills": [
+      "Research",
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Statistics",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Junior Physicist": {
+    "skills": [
+      "Laboratory Skills",
+      "Experimentation",
+      "Research",
+      "Data Analysis",
+      "Scientific Writing",
+      "Statistics"
+    ]
+  },
+  "Lead Physicist": {
+    "skills": [
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Experimentation",
+      "Data Analysis",
+      "Statistics",
+      "Research"
+    ]
+  },
+  "Associate Physicist": {
+    "skills": [
+      "Research",
+      "Laboratory Skills",
+      "Experimentation",
+      "Data Analysis",
+      "Statistics",
+      "Scientific Writing"
+    ]
+  },
+  "Principal Physicist": {
+    "skills": [
+      "Scientific Writing",
+      "Experimentation",
+      "Research",
+      "Data Analysis",
+      "Statistics",
+      "Laboratory Skills"
+    ]
+  },
+  "Certified Physicist": {
+    "skills": [
+      "Statistics",
+      "Scientific Writing",
+      "Research",
+      "Experimentation",
+      "Data Analysis",
+      "Laboratory Skills"
+    ]
+  },
+  "Professional Physicist": {
+    "skills": [
+      "Research",
+      "Scientific Writing",
+      "Data Analysis",
+      "Experimentation",
+      "Laboratory Skills",
+      "Statistics"
+    ]
+  },
+  "Advanced Physicist": {
+    "skills": [
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Experimentation",
+      "Data Analysis",
+      "Research",
+      "Statistics"
+    ]
+  },
+  "Entry Level Physicist": {
+    "skills": [
+      "Statistics",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Data Analysis",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Specialist Physicist": {
+    "skills": [
+      "Laboratory Skills",
+      "Data Analysis",
+      "Statistics",
+      "Scientific Writing",
+      "Experimentation",
+      "Research"
+    ]
+  },
+  "Physicist - Healthcare": {
+    "skills": [
+      "Data Analysis",
+      "Experimentation",
+      "Laboratory Skills",
+      "Research",
+      "Statistics",
+      "Scientific Writing"
+    ]
+  },
+  "Physicist - Finance": {
+    "skills": [
+      "Scientific Writing",
+      "Data Analysis",
+      "Statistics",
+      "Research",
+      "Laboratory Skills",
+      "Experimentation"
+    ]
+  },
+  "Physicist - Education": {
+    "skills": [
+      "Laboratory Skills",
+      "Experimentation",
+      "Scientific Writing",
+      "Data Analysis",
+      "Statistics",
+      "Research"
+    ]
+  },
+  "Physicist - Retail": {
+    "skills": [
+      "Experimentation",
+      "Data Analysis",
+      "Statistics",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Research"
+    ]
+  },
+  "Physicist - Energy": {
+    "skills": [
+      "Experimentation",
+      "Laboratory Skills",
+      "Data Analysis",
+      "Scientific Writing",
+      "Research",
+      "Statistics"
+    ]
+  },
+  "Physicist - Technology": {
+    "skills": [
+      "Experimentation",
+      "Data Analysis",
+      "Laboratory Skills",
+      "Research",
+      "Statistics",
+      "Scientific Writing"
+    ]
+  },
+  "Chemist": {
+    "skills": [
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Statistics",
+      "Data Analysis",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Senior Chemist": {
+    "skills": [
+      "Experimentation",
+      "Research",
+      "Laboratory Skills",
+      "Statistics",
+      "Scientific Writing",
+      "Data Analysis"
+    ]
+  },
+  "Junior Chemist": {
+    "skills": [
+      "Research",
+      "Scientific Writing",
+      "Statistics",
+      "Laboratory Skills",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Lead Chemist": {
+    "skills": [
+      "Research",
+      "Data Analysis",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Experimentation",
+      "Statistics"
+    ]
+  },
+  "Associate Chemist": {
+    "skills": [
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Data Analysis",
+      "Experimentation",
+      "Research",
+      "Statistics"
+    ]
+  },
+  "Principal Chemist": {
+    "skills": [
+      "Data Analysis",
+      "Statistics",
+      "Research",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Experimentation"
+    ]
+  },
+  "Certified Chemist": {
+    "skills": [
+      "Statistics",
+      "Research",
+      "Data Analysis",
+      "Experimentation",
+      "Laboratory Skills",
+      "Scientific Writing"
+    ]
+  },
+  "Professional Chemist": {
+    "skills": [
+      "Statistics",
+      "Research",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Advanced Chemist": {
+    "skills": [
+      "Research",
+      "Experimentation",
+      "Statistics",
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Data Analysis"
+    ]
+  },
+  "Entry Level Chemist": {
+    "skills": [
+      "Laboratory Skills",
+      "Experimentation",
+      "Scientific Writing",
+      "Statistics",
+      "Data Analysis",
+      "Research"
+    ]
+  },
+  "Specialist Chemist": {
+    "skills": [
+      "Data Analysis",
+      "Experimentation",
+      "Laboratory Skills",
+      "Research",
+      "Statistics",
+      "Scientific Writing"
+    ]
+  },
+  "Chemist - Healthcare": {
+    "skills": [
+      "Scientific Writing",
+      "Research",
+      "Laboratory Skills",
+      "Experimentation",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Chemist - Finance": {
+    "skills": [
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Research",
+      "Statistics",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Chemist - Education": {
+    "skills": [
+      "Experimentation",
+      "Data Analysis",
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Research",
+      "Statistics"
+    ]
+  },
+  "Chemist - Retail": {
+    "skills": [
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Research",
+      "Statistics",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Chemist - Energy": {
+    "skills": [
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Research",
+      "Data Analysis",
+      "Experimentation",
+      "Statistics"
+    ]
+  },
+  "Chemist - Technology": {
+    "skills": [
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Research",
+      "Experimentation",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Environmental Scientist": {
+    "skills": [
+      "Laboratory Skills",
+      "Experimentation",
+      "Scientific Writing",
+      "Statistics",
+      "Research",
+      "Data Analysis"
+    ]
+  },
+  "Senior Environmental Scientist": {
+    "skills": [
+      "Statistics",
+      "Laboratory Skills",
+      "Research",
+      "Data Analysis",
+      "Scientific Writing",
+      "Experimentation"
+    ]
+  },
+  "Junior Environmental Scientist": {
+    "skills": [
+      "Scientific Writing",
+      "Statistics",
+      "Data Analysis",
+      "Laboratory Skills",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Lead Environmental Scientist": {
+    "skills": [
+      "Laboratory Skills",
+      "Statistics",
+      "Data Analysis",
+      "Scientific Writing",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Associate Environmental Scientist": {
+    "skills": [
+      "Experimentation",
+      "Laboratory Skills",
+      "Data Analysis",
+      "Research",
+      "Statistics",
+      "Scientific Writing"
+    ]
+  },
+  "Principal Environmental Scientist": {
+    "skills": [
+      "Data Analysis",
+      "Statistics",
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Certified Environmental Scientist": {
+    "skills": [
+      "Scientific Writing",
+      "Data Analysis",
+      "Laboratory Skills",
+      "Statistics",
+      "Research",
+      "Experimentation"
+    ]
+  },
+  "Professional Environmental Scientist": {
+    "skills": [
+      "Statistics",
+      "Experimentation",
+      "Laboratory Skills",
+      "Research",
+      "Data Analysis",
+      "Scientific Writing"
+    ]
+  },
+  "Advanced Environmental Scientist": {
+    "skills": [
+      "Data Analysis",
+      "Experimentation",
+      "Research",
+      "Scientific Writing",
+      "Laboratory Skills",
+      "Statistics"
+    ]
+  },
+  "Entry Level Environmental Scientist": {
+    "skills": [
+      "Research",
+      "Laboratory Skills",
+      "Statistics",
+      "Scientific Writing",
+      "Experimentation",
+      "Data Analysis"
+    ]
+  },
+  "Specialist Environmental Scientist": {
+    "skills": [
+      "Scientific Writing",
+      "Experimentation",
+      "Statistics",
+      "Laboratory Skills",
+      "Research",
+      "Data Analysis"
+    ]
+  },
+  "Environmental Scientist - Healthcare": {
+    "skills": [
+      "Data Analysis",
+      "Laboratory Skills",
+      "Experimentation",
+      "Scientific Writing",
+      "Statistics",
+      "Research"
+    ]
+  },
+  "Environmental Scientist - Finance": {
+    "skills": [
+      "Data Analysis",
+      "Scientific Writing",
+      "Experimentation",
+      "Statistics",
+      "Research",
+      "Laboratory Skills"
+    ]
+  },
+  "Environmental Scientist - Education": {
+    "skills": [
+      "Laboratory Skills",
+      "Research",
+      "Scientific Writing",
+      "Experimentation",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "Environmental Scientist - Retail": {
+    "skills": [
+      "Laboratory Skills",
+      "Scientific Writing",
+      "Experimentation",
+      "Research",
+      "Statistics",
+      "Data Analysis"
+    ]
+  },
+  "Environmental Scientist - Energy": {
+    "skills": [
+      "Scientific Writing",
+      "Statistics",
+      "Experimentation",
+      "Data Analysis",
+      "Laboratory Skills",
+      "Research"
+    ]
+  },
+  "Environmental Scientist - Technology": {
+    "skills": [
+      "Data Analysis",
+      "Research",
+      "Scientific Writing",
+      "Statistics",
+      "Laboratory Skills",
+      "Experimentation"
+    ]
+  }
+}
